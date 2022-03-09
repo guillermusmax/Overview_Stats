@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <a href="#">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbETaperingsky&layout=compact&hide_border=true">
 </a>
+
+![简律纯's github stats](https://github-readme-stats.vercel.app/api?username=ArbETaperingsky&show_icons=true&theme=tokyonight)
