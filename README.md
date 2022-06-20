@@ -1,7 +1,7 @@
 ### Hi there 👋
  📫 How to reach me: HsiangNianian@outlook.com
 <!--
-**ArbETaperingsky/ArbETaperingsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cypress/cypress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ヾ(≧へ≦)〃
 <a href="#">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbETaperingsky&layout=compact&hide_border=true">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypress0522&layout=compact&hide_border=true">
 </a>
 
-![简律纯's github stats](https://github-readme-stats.vercel.app/api?username=ArbETaperingsky&show_icons=true&theme=tokyonight)
+![简律纯's github stats](https://github-readme-stats.vercel.app/api?username=cypress0522&show_icons=true&theme=tokyonight)
