@@ -27,9 +27,10 @@
 
 <h3 align="center"> 有个年度任务——熬夜（213/365）</h3>
 
-p src="https://activity-graph.herokuapp.com/graph?username=cypress0522&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=cypress0522&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
-
+</p>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=cypress0522&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=cypress0522&line_height=27">
