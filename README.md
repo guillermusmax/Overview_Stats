@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align="center">
-  <a href="mailto:hsiangnianian@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:hsiangnianian@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png" width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/Hsiang_Nianian" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
@@ -21,7 +21,7 @@
 <h4 align="center"> 在琴谱上，我们学会了理论</h4>
 <h4 align="center"> 跟别人相处之后，才理解了音乐.</h4>
 
-#### ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Flask-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/Tailwind-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Ethers.js-blue) ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Tezos-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Web3-blue) ![](https://img.shields.io/badge/Smart%Contract-blue) ![](https://img.shields.io/badge/Golang-blue) ![](https://img.shields.io/badge/Rust-blue) ![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/GoDaddy-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/Git-blue) ![](https://img.shields.io/badge/bootstrap-blue) ![](https://img.shields.io/badge/SmartContract-blue)
+#### ![](https://img.shields.io/badge/Git-blue) ![](https://img.shields.io/badge/Lua-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/C++-blue) ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/LOVE2D-blue) ![](https://img.shields.io/badge/VB.NET-blue) ![](https://img.shields.io/badge/Unity3D-blue) ![](https://img.shields.io/badge/EJS-blue) ![](https://img.shields.io/badge/MuseScore-blue) ![](https://img.shields.io/badge/Tex-blue) ![](https://img.shields.io/badge/Golang-blue)
 
 ##
 
