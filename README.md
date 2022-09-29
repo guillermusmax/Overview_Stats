@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="PNG" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://cdn.jsdelivr.net/gh/cypress0522/img@main/2022/06/21/1651472964629.png)" width="640" height="400" />
+  <img alt="PNG" src="[https://cdn.jsdelivr.net/gh/cypress0522/img@main/2022/06/21/1651472964629.png](https://cypress0522.github.io)" width="640" height="400" />
 </p>
 
 <h1 align="center">
@@ -9,8 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align="center">
-  <a href="mailto:hsiangnianian@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail
-new.png"  width="50" /></a>
+  <a href="mailto:hsiangnianian@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/Hsiang_Nianian" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
