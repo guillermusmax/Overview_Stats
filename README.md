@@ -1,8 +1,4 @@
-
-<p align="center">
-  <img alt="PNG" src="[https://cdn.jsdelivr.net/gh/cypress0522/img@main/2022/06/21/1651472964629.png](https://cypress0522.github.io)" width="640" height="400" />
-</p>
-
+<omg src="https://cdn.jsdelivr.net/gh/cypress0522/img@main/2022/06/21/1651472964629.png](https://cypress0522.github.io" />
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi, Nice to meet you.
@@ -31,7 +27,7 @@
 
 <h3 align="center"> 有个年度任务——熬夜（213/365）</h3>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=cypress0522&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+p src="https://activity-graph.herokuapp.com/graph?username=cypress0522&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
 
 
