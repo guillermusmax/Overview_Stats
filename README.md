@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align="center">
-  <a href="mailto:hsiangnianian@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png" width="50" /></a>
+  <a href="mailto:hsiangnianian@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png" width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/Hsiang_Nianian" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
