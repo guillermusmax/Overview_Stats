@@ -14,10 +14,6 @@
 </p>
 <h2 align="center"> 一名热爱音乐与编程的大学生.</h2>
 
-<p align="center">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
-</p>
-
 <h4 align="center"> 在琴谱上，我们学会了理论</h4>
 <h4 align="center"> 跟别人相处之后，才理解了音乐.</h4>
 
