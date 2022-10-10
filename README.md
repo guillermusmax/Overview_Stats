@@ -17,6 +17,8 @@
 <h4 align="center"> 在琴谱上，我们学会了理论</h4>
 <h4 align="center"> 跟别人相处之后，才理解了音乐.</h4>
 
+> 关注我的[SoundCloud](https://soundcloud.com/hsiang_nianian)
+
 #### ![](https://img.shields.io/badge/Git-blue) ![](https://img.shields.io/badge/Lua-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/C++-blue) ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/LOVE2D-blue) ![](https://img.shields.io/badge/VB.NET-blue) ![](https://img.shields.io/badge/Unity3D-blue) ![](https://img.shields.io/badge/EJS-blue) ![](https://img.shields.io/badge/MuseScore-blue) ![](https://img.shields.io/badge/Tex-blue) ![](https://img.shields.io/badge/Golang-blue)
 
 ##
