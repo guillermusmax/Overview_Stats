@@ -1,4 +1,7 @@
-<omg src="https://cdn.jsdelivr.net/gh/cypress0522/img@main/2022/06/21/1651472964629.png](https://cypress0522.github.io" />
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/cypress0522/img@main/2022/06/21/1651472964629.png"](https://cypress0522.github.io" />
+<br/>
+</p>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi, Nice to meet you.
