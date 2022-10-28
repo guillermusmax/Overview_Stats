@@ -17,15 +17,14 @@ class Meta(type):
 class Bio(metaclass=Meta):
     name        : str = "Hsiang Nianian"
     designation : str = "Composer & AI Programmer"
-    Label       : str = "FragmentXwords"
+    label       : str = "FragmentXwords"
     base        : str = "Zhejiang,China"
     blog        : str = "cypress0522.github.io"
 
 
 class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Python", "Lua", "HTML", "C++")
-    databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "Mongo", "Redis")
-    misc        : Tuple[str, ...] = ("Docker", "Celery")
+    databases   : Tuple[str, ...] = ("MySQL", "Mongo")
     ongoing     : Tuple[str, ...] = ("Django", "GraphQL")
 
 
