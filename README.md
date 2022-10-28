@@ -15,21 +15,25 @@ class Meta(type):
 
 
 class Bio(metaclass=Meta):
-    name        : str = "Redowan Delowar"
-    designation : str = "Data Scientist"
-    company     : str = "ShopUp"
-    base        : str = "Dhaka, Bangladesh"
-    blog        : str = "rednafi.github.io/digressions"
+    name        : str = "Hsiang Nianian"
+    designation : str = "Composer & AI Programmer"
+    Label       : str = "FragmentXwords"
+    base        : str = "Zhejiang,China"
+    blog        : str = "cypress0522.github.io"
 
 
 class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "Go", "Shell")
+    languages   : Tuple[str, ...] = ("Python", "Lua", "HTML", "C++")
     databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "Mongo", "Redis")
     misc        : Tuple[str, ...] = ("Docker", "Celery")
     ongoing     : Tuple[str, ...] = ("Django", "GraphQL")
 
 
 class Social(metaclass=Meta):
-    twitter     : str = "rednafi"
-    linkedin    : str = "redowan"
+    Twitter     : str = "Hsiang_Nianian"
+    SoundCloud  : str = "hsiang_nianian"
+    Spotify     : str = "Hsiang Nianian"
+    Instagram   : str = "hsiang_nianian"
+    Facebook    : str = "hsiang.nianian"
+    
 ```
