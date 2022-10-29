@@ -29,7 +29,7 @@ class Stack(metaclass=Meta):
 
 
 class Social(metaclass=Meta):
-    Twitter     : str = "Hsiang_Nianian"
+    Twitter     : str = "HsiangNianian"
     SoundCloud  : str = "hsiang_nianian"
     Spotify     : str = "Hsiang Nianian"
     Instagram   : str = "hsiang_nianian"
