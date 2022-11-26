@@ -19,7 +19,7 @@ class Bio(metaclass=Meta):
     designation : str = "Composer & AI Programmer"
     label       : str = "FragmentXwords"
     base        : str = "Zhejiang,China"
-    blog        : str = "hsiang-nianian.netlify.app"
+    blog        : str = "https://jyunko.cn"
 
 
 class Stack(metaclass=Meta):
