@@ -1,5 +1,6 @@
-<p > 
-  <img src="https://profile-counter.glitch.me/cypress0522/count.svg" />
+<p>
+  <img align="right" src="https://profile-counter.glitch.me/cypress0522/count.svg" />
+  欢迎收听我的音乐~
 </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cypress0522">
 
