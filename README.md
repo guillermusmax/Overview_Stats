@@ -1,6 +1,10 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/cypress0522/count.svg" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=cypress0522">
 </p>
+
+
 
 ```python
 
