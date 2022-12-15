@@ -1,8 +1,8 @@
 <p>
-  <img align="right" src="https://profile-counter.glitch.me/cypress0522/count.svg" />
+  <img align="right" src="https://profile-counter.glitch.me/A2C29K9/count.svg" />
   ⭐️欢迎收听我的音乐~
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cypress0522&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=A2C29K9&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 <p align="right">
 Python      152 hrs 32 mins       ██████████████████░░░░   88.69 
 </p>
