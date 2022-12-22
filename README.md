@@ -41,3 +41,9 @@ Python      152 hrs 32 mins       ███████████████�
 ```
 
 ![](https://github.com/insolitum/insolitum/raw/main/contributions.svg)
+
+<p align="center">
+  <a href="https://github.com/Cubik65536">
+  <img alt="cool" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  </a>
+</p>
