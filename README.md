@@ -22,7 +22,7 @@ Python      152 hrs 32 mins       ███████████████�
     base        : str = "Zhejiang,China"
     blog        : str = "https://jyunko.cn"
 ```
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2C29K9&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img align="right" src="./profile-3d-contrib/profile-night-rainbow.svg" width="384" height="380" alt=""/>
   
 ### class Stack(metaclass=Meta):
 ```py
@@ -41,9 +41,3 @@ Python      152 hrs 32 mins       ███████████████�
 ```
 
 ![](https://github.com/insolitum/insolitum/raw/main/contributions.svg)
-
-<p align="center">
-  <a href="https://github.com/Cubik65536">
-  <img alt="cool" src="./profile-3d-contrib/profile-night-rainbow.svg" />
-  </a>
-</p>
