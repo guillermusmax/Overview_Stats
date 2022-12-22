@@ -26,7 +26,7 @@ Python      152 hrs 32 mins       ███████████████�
   
 ### class Stack(metaclass=Meta):
 ```py
-    languages   : Tuple[str, ...] = ("Python", "Lua", "HTML", "C++")
+    languages   : Tuple[str, ...] = ("Python", "Lua", "C++")
     databases   : Tuple[str, ...] = ("MySQL", "Mongo")
     ongoing     : Tuple[str, ...] = ("Django", "GraphQL")
 ```
