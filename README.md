@@ -16,11 +16,11 @@ Python      152 hrs 32 mins       ███████████████�
 
 ### class Bio(metaclass=Meta):
 ```py
-    name        : str = "Hsiang Nianian"
-    designation : str = "Composer & AI Programmer"
-    label       : str = "FragmentXwords"
-    base        : str = "Zhejiang,China"
-    blog        : str = "https://jyunko.cn"
+    name        : str = "Hsiang Nianian" or "ArbETaperingsky" or "简律纯"
+    designation : str = "Composer & AI Programmer" or "Label's A&R"
+    label       : str = "FragmentXwords" or "断章"
+    base        : str = "Zhejiang,China" or "AnyWhere about Robot&AI"
+    blog        : str = "https://jyunko.cn" or "https://academic.jyunko.cn"
 ```
 <img align="right" src="./profile-3d-contrib/profile-night-rainbow.svg" width="384" height="380" alt=""/>
   
