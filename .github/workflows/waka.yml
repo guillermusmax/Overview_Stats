@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: A2C29K9/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: 'waka_e938fe17-5dc2-4bf6-87a7-17c2a530983d'
 
 # name: Waka Readme
 
