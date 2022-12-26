@@ -14,6 +14,6 @@ jobs:
     name: Update this repo's README 
     runs-on: ubuntu-latest
     steps:
-      - uses: A2C29K9/waka-readme@master
+      - uses: A2C29K9/A2C29K9@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
