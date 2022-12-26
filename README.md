@@ -5,6 +5,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=A2C29K9&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 <!--START_SECTION:waka-->
+Python :s
 <!--END_SECTION:waka-->
 
 ### class Meta(type):
