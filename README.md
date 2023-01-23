@@ -1,11 +1,14 @@
 <p>
   <img align="right" src="https://profile-counter.glitch.me/A2C29K9/count.svg" />
-  ⭐️欢迎收听我的音乐~
+  ⭐️欢迎收听我的音乐~  
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HsiangNianian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
+
 <!--END_SECTION:waka-->
 
 ### class Meta(type):
