@@ -41,3 +41,7 @@
 ```
 
 ![](https://github.com/insolitum/insolitum/raw/main/contributions.svg)
+
+***
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HsiangNianian&layout=compact&theme=material-palenight)
