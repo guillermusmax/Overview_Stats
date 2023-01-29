@@ -44,4 +44,6 @@
 
 ***
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HsiangNianian&layout=compact&theme=material-palenight)
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=HsiangNianian&layout=compact&theme=material-palenight" >
+
+<- sth. about data.
