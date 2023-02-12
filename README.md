@@ -2,6 +2,17 @@
 Currently working on [IamAI](https://github.com/retrofor/IamAI/) and associated projects. Read [my ACA blog](https://academic.jyunko.cn/) or [follow @HsiangNianian on Twitter](https://twitter.com/HsiangNianian).
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning      170 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+🌆 Daytime      320 commits       ████████░░░░░░░░░░░░░░░░░   31.81 % 
+🌃 Evening      258 commits       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+🌙 Night        258 commits       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+
+```
+
+
 
 <!--END_SECTION:waka-->
 
