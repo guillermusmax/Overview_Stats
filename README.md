@@ -45,4 +45,4 @@ More on [academic.jyunko.cn](https://academic.jyunko.cn/)
 
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+<a href="https://github.com/HsiangNianian/HsiangNianian/actions"><img src="https://github.com/HsiangNianian/HsiangNianian/actions/workflows/build.yml/badge.svg" align="right" alt="Build README"></a>
