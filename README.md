@@ -22,7 +22,7 @@ Currently working on [IamAI](https://github.com/retrofor/IamAI/) and associated 
 [ssJSKFJDJ 20230107 更新](https://github.com/HsiangNianian/ssJSKFJDJ/releases/tag/20230107) - 2023-01-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)
-</td><td valign="top" width="34%">
+</td><td valign="top" width="33%">
 
 ### On my Academic site
 <!-- blog starts -->
@@ -39,19 +39,9 @@ More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/
 [Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What’s In-Between](https://academic.jyunko.cn/2016/04/21/speech-processing-for-machine-learning) - 2016-04-21
 <!-- blog ends -->
 More on [academic.jyunko.cn](https://academic.jyunko.cn/)
-</td></table>
+</td></tr></table>
 
 <!--START_SECTION:waka-->
-
-```text
-From: 25 December 2022 - To: 11 February 2023
-
-Total Time: 14 hrs 28 mins
-
-Python       7 hrs 40 mins   >>>>>>>>>>>>>------------   53.06 %
-JavaScript   1 hr 40 mins    >>>----------------------   11.52 %
-Other        1 hr 12 mins    >>-----------------------   08.36 %
-```
 
 <!--END_SECTION:waka-->
 
