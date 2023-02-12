@@ -21,7 +21,7 @@ Currently working on [IamAI](https://iamai.retrofor.space/) and associated proje
 
 [ssJSKFJDJ 20230107 更新](https://github.com/HsiangNianian/ssJSKFJDJ/releases/tag/20230107) - 2023-01-07
 <!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
+More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my Academic site
