@@ -5,7 +5,7 @@ Currently working on [IamAI](https://github.com/retrofor/IamAI/) and associated 
 
 ### Recent releases
 <!-- recent_releases starts -->
-[IamAI v5.0.4 🌈](https://github.com/retrofor/IamAI/releases/tag/v5.0.4) - 2023-02-12
+[iamai v5.0.5 🌈](https://github.com/retrofor/iamai/releases/tag/v5.0.5) - 2023-02-12
 
 [OlivaBiliLive v3](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-8bf4ca6c48e6c3164a42) - 2023-02-12
 

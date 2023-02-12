@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->161<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->162<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[IamAI](https://github.com/retrofor/IamAI)**: [v5.0.4 🌈](https://github.com/retrofor/IamAI/releases/tag/v5.0.4) - ([15 releases total](https://github.com/retrofor/IamAI/releases))  - 2023-02-12
+* **[iamai](https://github.com/retrofor/iamai)**: [v5.0.5 🌈](https://github.com/retrofor/iamai/releases/tag/v5.0.5) - ([16 releases total](https://github.com/retrofor/iamai/releases))  - 2023-02-12
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [v3](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-8bf4ca6c48e6c3164a42) - ([14 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - 2023-02-12
 <br />可插件化管理的B站直播间机器人
