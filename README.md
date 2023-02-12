@@ -1,5 +1,5 @@
 
-Currently working on [IamAI](https://iamai.retrofor.space/) and associated projects. Read [my ACA blog](https://academic.jyunko.cn/) or [follow @HsiangNianian on Twitter](https://twitter.com/HsiangNianian).
+Currently working on [IamAI](https://github.com/retrofor/IamAI/) and associated projects. Read [my ACA blog](https://academic.jyunko.cn/) or [follow @HsiangNianian on Twitter](https://twitter.com/HsiangNianian).
 
 <table><tr><td valign="top" width="33%">
 
