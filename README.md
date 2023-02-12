@@ -43,6 +43,16 @@ More on [academic.jyunko.cn](https://academic.jyunko.cn/)
 
 <!--START_SECTION:waka-->
 
+```text
+From: 25 December 2022 - To: 11 February 2023
+
+Total Time: 14 hrs 28 mins
+
+Python       7 hrs 40 mins   >>>>>>>>>>>>>------------   53.06 %
+JavaScript   1 hr 40 mins    >>>----------------------   11.52 %
+Other        1 hr 12 mins    >>-----------------------   08.36 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/HsiangNianian/HsiangNianian/actions"><img src="https://github.com/HsiangNianian/HsiangNianian/actions/workflows/build.yml/badge.svg" align="right" alt="Build README"></a>
