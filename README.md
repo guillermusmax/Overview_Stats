@@ -31,6 +31,12 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Training an acoustic model for CMUSphinx](https://academic.jyunko.cn/2023/01/11/Training-an-acoustic-model-for-CMUSphinx-en) - 2023-01-11
 
 [ASR Detection System of Sensitive Words Based on MFSC Algorithm](https://academic.jyunko.cn/2023/01/10/ASR-Detection-System-of-Sensitive-Words-Based-on-MFSC-Algorithm) - 2023-01-10
+
+[GPT-3 vs. Rasa chatbots](https://academic.jyunko.cn/2023/01/10/GPT-3-vs-Rasa-chatbots) - 2023-01-10
+
+[The Pain of AI](https://academic.jyunko.cn/2023/01/09/The-Pain-of-AI) - 2023-01-09
+
+[Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What’s In-Between](https://academic.jyunko.cn/2016/04/21/speech-processing-for-machine-learning) - 2016-04-21
 <!-- blog ends -->
 More on [academic.jyunko.cn](https://academic.jyunko.cn/)
 </td></table>
