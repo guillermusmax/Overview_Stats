@@ -42,17 +42,40 @@ More on [academic.jyunko.cn](https://academic.jyunko.cn/)
 </td></tr></table>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2055%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 2,205 Contributions in the Year 2023
+ > 
+> 📦 278.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 177 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I Mostly Code in Python** 
 
 ```text
-From: 25 December 2022 - To: 11 February 2023
+Python                   15 repos            ███████████░░░░░░░░░░░░░░   44.12 % 
+Lua                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
-Total Time: 14 hrs 28 mins
-
-Python       7 hrs 40 mins   >>>>>>>>>>>>>------------   53.06 %
-JavaScript   1 hr 40 mins    >>>----------------------   11.52 %
-Other        1 hr 12 mins    >>-----------------------   08.36 %
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/HsiangNianian/HsiangNianian/main/charts/bar_graph.png) 
+
+
+ Last Updated on 12/02/2023 15:52:00 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/HsiangNianian/HsiangNianian/actions"><img src="https://github.com/HsiangNianian/HsiangNianian/actions/workflows/build.yml/badge.svg" align="right" alt="Build README"></a>
