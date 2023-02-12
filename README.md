@@ -42,22 +42,6 @@ More on [academic.jyunko.cn](https://academic.jyunko.cn/)
 </td></tr></table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2055%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 2,206 Contributions in the Year 2023
- > 
-> 📦 278.4 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 177 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -84,8 +68,6 @@ Sunday         185 commits       ████░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 JavaScript               1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   27.45 % 
 Python                   1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
@@ -120,7 +102,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2023 15:56:03 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/HsiangNianian/HsiangNianian/actions"><img src="https://github.com/HsiangNianian/HsiangNianian/actions/workflows/build.yml/badge.svg" align="right" alt="Build README"></a>
