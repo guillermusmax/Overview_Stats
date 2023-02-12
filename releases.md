@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->160<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->161<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[IamAI](https://github.com/retrofor/IamAI)**: [v5.0.4 🌈](https://github.com/retrofor/IamAI/releases/tag/v5.0.4) - ([15 releases total](https://github.com/retrofor/IamAI/releases))  - 2023-02-12
+<br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [v3](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-8bf4ca6c48e6c3164a42) - ([14 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - 2023-02-12
 <br />可插件化管理的B站直播间机器人
-* **[IamAI](https://github.com/retrofor/IamAI)**: [v5.0.3 🌈](https://github.com/retrofor/IamAI/releases/tag/v5.0.3) - ([14 releases total](https://github.com/retrofor/IamAI/releases))  - 2023-02-12
-<br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
 * **[retro_pkg_test](https://github.com/retrofor/retro_pkg_test)**: [v3.1415 🌈](https://github.com/retrofor/retro_pkg_test/releases/tag/v3.1415) - ([5 releases total](https://github.com/retrofor/retro_pkg_test/releases))  - 2023-02-01
 <br />None
 * **[retrofor.github.io](https://github.com/retrofor/retrofor.github.io)**: [v2023.0.3 🌈](https://github.com/retrofor/retrofor.github.io/releases/tag/v2023.0.3) - ([87 releases total](https://github.com/retrofor/retrofor.github.io/releases))  - 2023-02-01
