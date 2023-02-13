@@ -11,6 +11,8 @@ I have always had an absurd idea-composing music in a programming language and p
 
 I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associated projects. If you are interested abou it, just [via me an email](mailto:admin@jyunko.cn).
 
+<table><tr><td valign="top" width="33%">
+  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -25,6 +27,11 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 
 
 <!--END_SECTION:waka-->
+</td><td valign="top" width="33%">
+<p align="right">
+<img width="500" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+</p>
+</td></tr></table>
 
 <table><tr><td valign="top" width="33%">
 
