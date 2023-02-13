@@ -57,7 +57,7 @@ More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/
 
 [The Pain of AI](https://academic.jyunko.cn/The-Pain-of-AI) - 2023-01-09
 
-[Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What’s In-Between](https://academic.jyunko.cn/speech-processing-for-machine-learning) - 2016-04-21
+[Tips, Warnings, and Dangers](https://academic.jyunko.cn/tips_warnings_dangers) - 2022-06-30
 <!-- blog ends -->
 More on [academic.jyunko.cn](https://academic.jyunko.cn/)
 </td></tr></table>
