@@ -1,7 +1,11 @@
-Artificial Intelligence, Music Theories. 
+🐱‍🏍**Artificial Intelligence** | **Music Theories**
+
 There’s going to be something more academic and something that fascinates me. 
-I have always had an absurd idea-composing music in a programming language and programming in a music language([Maybe we can really try for it](https://github.com/academic-jyunko)).
-Currently I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associated projects. If you are interested abou it, just [via me an email](mailto:admin@jyunko.cn).
+I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/academic-jyunko)).
+
+🐱‍👤**Currently** 
+
+I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associated projects. If you are interested abou it, just [via me an email](mailto:admin@jyunko.cn).
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -59,4 +63,3 @@ More on [academic.jyunko.cn](https://academic.jyunko.cn/)
 </td></tr></table>
 
 <p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
-<a href="https://github.com/HsiangNianian/HsiangNianian/actions"><img src="https://github.com/HsiangNianian/HsiangNianian/actions/workflows/build.yml/badge.svg" align="right" alt="Build README"></a>
