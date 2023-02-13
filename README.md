@@ -22,7 +22,7 @@ Currently I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) a
 
 ### Recent releases
 <!-- recent_releases starts -->
-[iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-1cbac2722db952cbd79e) - Near Future
+[iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-9f4cda0d6496c566faa4) - Near Future
 
 [OlivaBiliLive v3](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-8bf4ca6c48e6c3164a42) - 2023-02-12
 
