@@ -1,9 +1,13 @@
 🐱‍🏍**Artificial Intelligence** | **Music Theories**
 
+_你好，我是一名AI专业的大学生，很高兴认识你。我会写[小曲儿](https://open.spotify.com/artist/3bPZ0WhBjLxuq7AWGLlwBD?si=872eb1ff4ffa4c8e)，也会[敲代码](https://indienova.com/u/mGvQGAY4130229)。_
+
 There’s going to be something more academic and something that fascinates me. 
 I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/academic-jyunko)).
 
 🐱‍👤**Currently** 
+
+_我正在编写自己的机器学习与跨平台机器人[框架](https://github.com/retrofor/IamAI/)，如果你对此感兴趣可以给我发送[邮件](mailto:admin@jyunko.cn)。_
 
 I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associated projects. If you are interested abou it, just [via me an email](mailto:admin@jyunko.cn).
 
@@ -11,10 +15,10 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning      167 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-🌆 Daytime      289 commits       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-🌃 Evening      272 commits       ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-🌙 Night        257 commits       ██████░░░░░░░░░░░░░░░░░░░   26.09 % 
+🌞 Morning      167 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+🌆 Daytime      290 commits       ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+🌃 Evening      272 commits       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+🌙 Night        255 commits       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
 
 ```
 
