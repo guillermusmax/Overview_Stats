@@ -1,6 +1,6 @@
 🐱‍🏍**Artificial Intelligence** | **Music Theories**
 
-_你好，我是一名AI专业的大学生，很高兴认识你。我会写[小曲儿](https://open.spotify.com/artist/3bPZ0WhBjLxuq7AWGLlwBD?si=872eb1ff4ffa4c8e)，也会[敲代码](https://indienova.com/u/mGvQGAY4130229)。_
+_你好，我是一名AI专业的大学生，很高兴认识你。我不会写[小曲儿](https://open.spotify.com/artist/3bPZ0WhBjLxuq7AWGLlwBD?si=872eb1ff4ffa4c8e)，也不会[敲代码](https://indienova.com/u/mGvQGAY4130229)。_
 
 There’s going to be something more academic and something that fascinates me. 
 I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/academic-jyunko)).
