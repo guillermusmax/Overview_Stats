@@ -126,10 +126,10 @@ def fetch_releases(oauth_token):
                             "repo": repo["name"],
                             "repo_url": repo["url"],
                             "description": repo["description"],
-                            "release": repo["releases"]["nodes"][1]["name"].replace(repo["name"], "").strip(),
-                            "published_at": repo["releases"]["nodes"][1]["publishedAt"],
-                            "published_day": repo["releases"]["nodes"][1]["publishedAt"].split("T")[0],
-                            "url": repo["releases"]["nodes"][1]["url"],
+                            "release": repo["releases"]["nodes"][0]["name"].replace(repo["name"], "").strip(),
+                            "published_at": "Near Future",
+                            "published_day": "Near Future",
+                            "url": repo["releases"]["nodes"][0]["url"],
                             "total_releases": repo["releases"]["totalCount"],
                         }
                     )
