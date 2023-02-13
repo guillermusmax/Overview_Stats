@@ -1,5 +1,12 @@
+Artificial Intelligence, Music Theories. 
 
-Currently working on [IamAI](https://github.com/retrofor/IamAI/) and associated projects. Read [my ACA blog](https://academic.jyunko.cn/) or [follow @HsiangNianian on Twitter](https://twitter.com/HsiangNianian).
+There’s going to be something more academic and something that fascinates me. 
+
+I have always had an absurd idea-composing music in a programming language and programming in a music language.[Maybe we can really try it !](https://github.com/retrofor/IamAI/)
+
+Currently I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associated projects. If you are interested abou it, just [via me an email](mailto:admin@jyunko.cn).
+
+Welcome to [follow @HsiangNianian on Twitter](https://twitter.com/HsiangNianian).
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
