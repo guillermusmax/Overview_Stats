@@ -47,17 +47,17 @@ More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/
 
 ### On my Academic site
 <!-- blog starts -->
-[Tips, Warnings, and Dangers](https://academic.jyunko.cn/jekyll/tips_warnings_dangers) - 2022-06-30
+[训练自己的声学模型](https://academic.jyunko.cn/Training-an-acoustic-model-for-CMUSphinx-zh-CN) - 2023-01-18
 
-[Wide tables](https://academic.jyunko.cn/jekyll/wide_tables) - 2022-06-26
+[Training an acoustic model for CMUSphinx](https://academic.jyunko.cn/Training-an-acoustic-model-for-CMUSphinx-en) - 2023-01-11
 
-[Page with cover image](https://academic.jyunko.cn/jekyll/page_cover) - 2022-05-24
+[ASR Detection System of Sensitive Words Based on MFSC Algorithm](https://academic.jyunko.cn/ASR-Detection-System-of-Sensitive-Words-Based-on-MFSC-Algorithm) - 2023-01-10
 
-[How to Generate TOC](https://academic.jyunko.cn/jekyll/toc) - 2021-08-10
+[GPT-3 vs. Rasa chatbots](https://academic.jyunko.cn/GPT-3-vs-Rasa-chatbots) - 2023-01-10
 
-[License](https://academic.jyunko.cn/jekyll/license) - 2019-04-29
+[The Pain of AI](https://academic.jyunko.cn/The-Pain-of-AI) - 2023-01-09
 
-[How to Get Started](https://academic.jyunko.cn/jekyll/howto) - 2019-04-28
+[Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What’s In-Between](https://academic.jyunko.cn/speech-processing-for-machine-learning) - 2016-04-21
 <!-- blog ends -->
 More on [academic.jyunko.cn](https://academic.jyunko.cn/)
 </td></tr></table>
