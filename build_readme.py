@@ -107,18 +107,21 @@ def fetch_releases(oauth_token):
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
                 repo_names.add(repo["name"])
-                releases.append(
-                    {
-                        "repo": repo["name"],
-                        "repo_url": repo["url"],
-                        "description": repo["description"],
-                        "release": repo["releases"]["nodes"][0]["name"].replace(repo["name"], "").strip(),
-                        "published_at": repo["releases"]["nodes"][0]["publishedAt"],
-                        "published_day": repo["releases"]["nodes"][0]["publishedAt"].split("T")[0],
-                        "url": repo["releases"]["nodes"][0]["url"],
-                        "total_releases": repo["releases"]["totalCount"],
-                    }
-                )
+                try:
+                    releases.append(
+                        {
+                            "repo": repo["name"],
+                            "repo_url": repo["url"],
+                            "description": repo["description"],
+                            "release": repo["releases"]["nodes"][0]["name"].replace(repo["name"], "").strip(),
+                            "published_at": repo["releases"]["nodes"][0]["publishedAt"],
+                            "published_day": repo["releases"]["nodes"][0]["publishedAt"].split("T")[0],
+                            "url": repo["releases"]["nodes"][0]["url"],
+                            "total_releases": repo["releases"]["totalCount"],
+                        }
+                    )
+                except:
+                    pass
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
         has_next_page = after_cursor
     return releases
