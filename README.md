@@ -2,7 +2,7 @@ Artificial Intelligence, Music Theories.
 
 There’s going to be something more academic and something that fascinates me. 
 
-I have always had an absurd idea-composing music in a programming language and programming in a music language.[Maybe we can really try it !](https://github.com/retrofor/IamAI/)
+I have always had an absurd idea-composing music in a programming language and programming in a music language.[Maybe we can really try it !](https://github.com/academic-jyunko)
 
 Currently I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associated projects. If you are interested abou it, just [via me an email](mailto:admin@jyunko.cn).
 
