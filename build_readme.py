@@ -121,7 +121,18 @@ def fetch_releases(oauth_token):
                         }
                     )
                 except:
-                    pass
+                    releases.append(
+                        {
+                            "repo": repo["name"],
+                            "repo_url": repo["url"],
+                            "description": repo["description"],
+                            "release": repo["releases"]["nodes"][1]["name"].replace(repo["name"], "").strip(),
+                            "published_at": repo["releases"]["nodes"][1]["publishedAt"],
+                            "published_day": repo["releases"]["nodes"][1]["publishedAt"].split("T")[0],
+                            "url": repo["releases"]["nodes"][1]["url"],
+                            "total_releases": repo["releases"]["totalCount"],
+                        }
+                    )
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
         has_next_page = after_cursor
     return releases
