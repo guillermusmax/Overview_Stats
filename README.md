@@ -17,8 +17,8 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning      170 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-🌆 Daytime      295 commits       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+🌞 Morning      171 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+🌆 Daytime      294 commits       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
 🌃 Evening      266 commits       ██████░░░░░░░░░░░░░░░░░░░   26.71 % 
 🌙 Night        265 commits       ██████░░░░░░░░░░░░░░░░░░░   26.61 % 
 
@@ -54,7 +54,7 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 
 [ssJSKFJDJ 20230107 更新](https://github.com/HsiangNianian/ssJSKFJDJ/releases/tag/20230107) - 2023-01-07
 <!-- recent_releases ends -->
-More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)
+_More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
 </td><td valign="top" width="33%">
 
 ### 📕Academic site
@@ -71,7 +71,7 @@ More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/
 
 [Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What’s In-Between](https://academic.jyunko.cn/2016/04/21/speech-processing-for-machine-learning) - 2016-04-21
 <!-- blog ends -->
-More on [academic.jyunko.cn](https://academic.jyunko.cn/)
+_More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 </td><td valign="top" width="33%">
 
 ### 🎹Release Album/EP
@@ -80,7 +80,7 @@ More on [academic.jyunko.cn](https://academic.jyunko.cn/)
 
 [温存，琴弦之所以断了的理由](https://fm.jyunko.cn/winter) - 2020-12-15
 <!-- fm ends -->
-
+_More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
 </td></tr></table>
 
 <p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
