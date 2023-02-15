@@ -1,6 +1,6 @@
 🐱‍🏍**Artificial Intelligence** | **Music Theories**
 
-> _你好，我是一名AI专业的大学生，很高兴认识你。在这世界上我喜欢的东西并不是很多，在平常，我会写点[小曲儿](https://fm.jyunko.cn)，也会很自豪的和你说我是个[诗人](https://www.zgshige.com/c/2022-07-25/22158479.shtml)。_
+> _你好，我是一名AI专业的大学生，很高兴认识你。在这世界上我喜欢的东西并不是很多，我会写点[小曲儿](https://fm.jyunko.cn)，也会很自豪的和你说我是个[诗人](https://www.zgshige.com/c/2022-07-25/22158479.shtml)。_
 
 There’s going to be something more academic and something that fascinates me. 
 I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/academic-jyunko)).
