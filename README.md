@@ -36,7 +36,7 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 
 <table><tr><td valign="top" width="33%">
 
-### Recent releases
+### 🏷Recent releases
 <!-- recent_releases starts -->
 [iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-f8f8ac57ba2bd5324ec5) - Near Future
 
@@ -57,7 +57,7 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)
 </td><td valign="top" width="33%">
 
-### On my Academic site
+### 📕Academic site
 <!-- blog starts -->
 [训练自己的声学模型](https://academic.jyunko.cn/2023/01/18/Training-an-acoustic-model-for-CMUSphinx-zh-CN) - 2023-01-18
 
@@ -72,6 +72,13 @@ More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/
 [Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What’s In-Between](https://academic.jyunko.cn/2016/04/21/speech-processing-for-machine-learning) - 2016-04-21
 <!-- blog ends -->
 More on [academic.jyunko.cn](https://academic.jyunko.cn/)
+</td><td valign="top" width="33%">
+
+### 🎹Release Album/EP
+<!-- fm starts -->
+
+<!-- fm ends -->
+
 </td></tr></table>
 
 <p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
