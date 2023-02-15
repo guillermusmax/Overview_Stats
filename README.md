@@ -79,6 +79,8 @@ _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 [Pain,K(special day work)](https://fm.jyunko.cn/paink) - 2021-01-23
 
 [温存，琴弦之所以断了的理由](https://fm.jyunko.cn/winter) - 2020-12-15
+
+[¡ ƒ=(1-sinθ) ! (心脏线)](https://fm.jyunko.cn/Cardioid) - 2020-01-19
 <!-- fm ends -->
 _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
 </td></tr></table>
