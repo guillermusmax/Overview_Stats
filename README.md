@@ -82,7 +82,7 @@ _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 
 [温存，琴弦之所以断了的理由](https://fm.jyunko.cn/winter) - 2020-12-15
 
-[Decades;2020~2019 (feat.Eldarado)](https://fm.jyunko.cn/Decades) - 2020-09-25
+[Decades;2020~2019](https://fm.jyunko.cn/Decades) - 2020-09-25
 
 [¡ ƒ=(1-sinθ) ! (心脏线)](https://fm.jyunko.cn/Cardioid) - 2020-01-19
 <!-- fm ends -->
