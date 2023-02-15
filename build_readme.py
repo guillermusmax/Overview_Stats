@@ -160,6 +160,16 @@ def fetch_blog_entries():
         for entry in entries
     ]
 
+def fetch_fm_entries():
+    entries = feedparser.parse("https://fm.jyunko.cn/feed.xml")["entries"]
+    return [
+        {
+            "title": entry["title"],
+            "url": entry["id"],
+            "published": entry["published"].split("T")[0],
+        }
+        for entry in entries
+    ]
 
 if __name__ == "__main__":
     readme = root / "README.md"
@@ -229,5 +239,14 @@ if __name__ == "__main__":
     print(entries_md)
     print()
     rewritten = replace_chunk(rewritten, "blog", entries_md)
+    
+    fm_entries = fetch_fm_entries()[:6]
+    fm_entries_md = "\n\n".join(
+        ["[{title}]({url}) - {published}".format(**entry) for entry in fm_entries]
+    )
+    print()
+    print(fm_entries_md)
+    print()
+    rewritten = replace_chunk(rewritten, "fm", fm_entries_md)
 
     readme.open("w").write(rewritten)
