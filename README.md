@@ -76,6 +76,8 @@ _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 
 ### 🎹Release Album/EP
 <!-- fm starts -->
+[Fragments (断章 - 断篇)](https://fm.jyunko.cn/Fragments) - 2021-10-23
+
 [Pain,K(special day work)](https://fm.jyunko.cn/paink) - 2021-01-23
 
 [温存，琴弦之所以断了的理由](https://fm.jyunko.cn/winter) - 2020-12-15
