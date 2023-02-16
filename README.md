@@ -59,17 +59,17 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 ### 📕Academic site
 <!-- blog starts -->
-[训练自己的声学模型](https://academic.jyunko.cn/2023/01/18/Training-an-acoustic-model-for-CMUSphinx-zh-CN) - 2023-01-18
+<details open="true"><summary>2023-01-18 <a href="https://academic.jyunko.cn/2023/01/18/Training-an-acoustic-model-for-CMUSphinx-zh-CN">训练自己的声学模型</a></summary><p>声学模型主要用于计算语音特征和每个发音模板之间的似然度。目的是为每个声学单元建立一套模型参数（通过不断地学习和改进得到最优的，也就是概率最大的一组HMM模型参数）。</p></details>
 
-[Training an acoustic model for CMUSphinx](https://academic.jyunko.cn/2023/01/11/Training-an-acoustic-model-for-CMUSphinx-en) - 2023-01-11
+<details open="true"><summary>2023-01-11 <a href="https://academic.jyunko.cn/2023/01/11/Training-an-acoustic-model-for-CMUSphinx-en">Training an acoustic model for CMUSphinx</a></summary><p>An article explaining how to train one's own acoustic model in CMUSphinx speech recognition project</p></details>
 
-[ASR Detection System of Sensitive Words Based on MFSC Algorithm](https://academic.jyunko.cn/2023/01/10/ASR-Detection-System-of-Sensitive-Words-Based-on-MFSC-Algorithm) - 2023-01-10
+<details open="true"><summary>2023-01-10 <a href="https://academic.jyunko.cn/2023/01/10/ASR-Detection-System-of-Sensitive-Words-Based-on-MFSC-Algorithm">ASR Detection System of Sensitive Words Based on MFSC Algorithm</a></summary><p>基于MFSC算法的ASR检测敏感词系统， 此页面为未来paper与软著的提交页面。</p></details>
 
-[GPT-3 vs. Rasa chatbots](https://academic.jyunko.cn/2023/01/10/GPT-3-vs-Rasa-chatbots) - 2023-01-10
+<details open="true"><summary>2023-01-10 <a href="https://academic.jyunko.cn/2023/01/10/GPT-3-vs-Rasa-chatbots">GPT-3 vs. Rasa chatbots</a></summary><p>Richard Trevithick’s locomotive — the GPT-3 of the early 19th century (Shutterstock.com)</p></details>
 
-[The Pain of AI](https://academic.jyunko.cn/2023/01/09/The-Pain-of-AI) - 2023-01-09
+<details open="true"><summary>2023-01-09 <a href="https://academic.jyunko.cn/2023/01/09/The-Pain-of-AI">The Pain of AI</a></summary><p>???</p></details>
 
-[Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What’s In-Between](https://academic.jyunko.cn/2016/04/21/speech-processing-for-machine-learning) - 2016-04-21
+<details open="true"><summary>2016-04-21 <a href="https://academic.jyunko.cn/2016/04/21/speech-processing-for-machine-learning">Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What’s In-Between</a></summary><p>Understanding and computing filter banks and MFCCs and a discussion on why are filter banks becoming increasingly popular.</p></details>
 <!-- blog ends -->
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 </td><td valign="top" width="33%">
