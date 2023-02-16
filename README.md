@@ -54,6 +54,7 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 
 [ssJSKFJDJ 20230107 更新](https://github.com/HsiangNianian/ssJSKFJDJ/releases/tag/20230107) - 2023-01-07
 <!-- recent_releases ends -->
+
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
 </td><td valign="top" width="33%">
 
@@ -71,6 +72,7 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 <details open="true"><summary>2016-04-21 <a href="https://academic.jyunko.cn/2016/04/21/speech-processing-for-machine-learning">Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What’s In-Between</a></summary><p>Understanding and computing filter banks and MFCCs and a discussion on why are filter banks becoming increasingly popular.</p></details>
 <!-- blog ends -->
+
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 </td><td valign="top" width="33%">
 
