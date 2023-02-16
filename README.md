@@ -78,17 +78,17 @@ _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 
 ### 🎹Release Album/EP
 <!-- fm starts -->
-<details open="true"><summary>2021-10-23</summary><a>Fragments</a><li><a href="https://fm.jyunko.cn/Fragments">Fragments (断章 - 断篇)</a></li></details>
+<details open="true"><summary>2021-10-23 Fragments</summary><li><a href="https://fm.jyunko.cn/Fragments">Fragments (断章 - 断篇)</a></li></details>
 
-<details open="true"><summary>2021-05-22</summary><a>#will u?</a><li><a href="https://fm.jyunko.cn/So-was-your-heart">So was your heart?</a></li></details>
+<details open="true"><summary>2021-05-22 #will u?</summary><li><a href="https://fm.jyunko.cn/So-was-your-heart">So was your heart?</a></li></details>
 
-<details open="true"><summary>2021-01-23</summary><a>IANHIA fireworks(rework)</a><li><a href="https://fm.jyunko.cn/paink">Pain,K(special day work)</a></li></details>
+<details open="true"><summary>2021-01-23 IANHIA fireworks(rework)</summary><li><a href="https://fm.jyunko.cn/paink">Pain,K(special day work)</a></li></details>
 
-<details open="true"><summary>2020-12-15</summary><a>CAUSEKNOT (Special Collection - 2021&winter)</a><li><a href="https://fm.jyunko.cn/winter">温存，琴弦之所以断了的理由</a></li></details>
+<details open="true"><summary>2020-12-15 CAUSEKNOT (Special Collection - 2021&winter)</summary><li><a href="https://fm.jyunko.cn/winter">温存，琴弦之所以断了的理由</a></li></details>
 
-<details open="true"><summary>2020-09-25</summary><a>Decades</a><li><a href="https://fm.jyunko.cn/Decades">Decades;2020~2019</a></li></details>
+<details open="true"><summary>2020-09-25 Decades</summary><li><a href="https://fm.jyunko.cn/Decades">Decades;2020~2019</a></li></details>
 
-<details open="true"><summary>2020-01-19</summary><a>Cardioid (心脏线)</a><li><a href="https://fm.jyunko.cn/Cardioid">¡ ƒ=(1-sinθ) ! (心脏线)</a></li></details>
+<details open="true"><summary>2020-01-19 Cardioid (心脏线)</summary><li><a href="https://fm.jyunko.cn/Cardioid">¡ ƒ=(1-sinθ) ! (心脏线)</a></li></details>
 <!-- fm ends -->
   
 _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
