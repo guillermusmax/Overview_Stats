@@ -242,13 +242,13 @@ if __name__ == "__main__":
     
     fm_entries = fetch_fm_entries()[:6]
     fm_entries_md = "\n\n".join(
-        [""""
-        <details>
-        <summary>{published}</summary>
-        <a href="{url}">{title}</a>
-        </details>
-        
-        """.format(**entry) for entry in fm_entries]
+        ["\
+        <details>\
+        <summary>{published}</summary>\
+        <a href=\"{url}\">{title}</a>\
+        </details>\
+        \
+        ".format(**entry) for entry in fm_entries]
     )
     print()
     print(fm_entries_md)
