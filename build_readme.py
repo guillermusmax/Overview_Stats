@@ -242,7 +242,11 @@ if __name__ == "__main__":
     
     fm_entries = fetch_fm_entries()[:6]
     fm_entries_md = "\n\n".join(
-        ["[{title}]({url}) - {published}".format(**entry) for entry in fm_entries]
+        [""""
+        <details>
+        <summary>{published}</summary>
+        {title}]({url})
+        </details>""".format(**entry) for entry in fm_entries]
     )
     print()
     print(fm_entries_md)
