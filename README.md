@@ -76,17 +76,41 @@ _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 
 ### 🎹Release Album/EP
 <!-- fm starts -->
-[Fragments (断章 - 断篇)](https://fm.jyunko.cn/Fragments) - 2021-10-23
+"
+        <details>
+        <summary>2021-10-23</summary>
+        Fragments (断章 - 断篇)](https://fm.jyunko.cn/Fragments)
+        </details>
 
-[So was your heart?](https://fm.jyunko.cn/So-was-your-heart) - 2021-05-22
+"
+        <details>
+        <summary>2021-05-22</summary>
+        So was your heart?](https://fm.jyunko.cn/So-was-your-heart)
+        </details>
 
-[Pain,K(special day work)](https://fm.jyunko.cn/paink) - 2021-01-23
+"
+        <details>
+        <summary>2021-01-23</summary>
+        Pain,K(special day work)](https://fm.jyunko.cn/paink)
+        </details>
 
-[温存，琴弦之所以断了的理由](https://fm.jyunko.cn/winter) - 2020-12-15
+"
+        <details>
+        <summary>2020-12-15</summary>
+        温存，琴弦之所以断了的理由](https://fm.jyunko.cn/winter)
+        </details>
 
-[Decades;2020~2019](https://fm.jyunko.cn/Decades) - 2020-09-25
+"
+        <details>
+        <summary>2020-09-25</summary>
+        Decades;2020~2019](https://fm.jyunko.cn/Decades)
+        </details>
 
-[¡ ƒ=(1-sinθ) ! (心脏线)](https://fm.jyunko.cn/Cardioid) - 2020-01-19
+"
+        <details>
+        <summary>2020-01-19</summary>
+        ¡ ƒ=(1-sinθ) ! (心脏线)](https://fm.jyunko.cn/Cardioid)
+        </details>
 <!-- fm ends -->
 _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
 </td></tr></table>
