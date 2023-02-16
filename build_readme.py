@@ -20,7 +20,8 @@ def replace_chunk(content, marker, chunk, inline=False):
     )
     if not inline:
         chunk = "\n{}\n".format(chunk)
-    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
+    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(
+        marker, chunk, marker)
     return r.sub(chunk, content)
 
 
@@ -150,7 +151,8 @@ def fetch_releases(oauth_token):
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://academic.jyunko.cn/feed.xml")["entries"]
+    entries = feedparser.parse(
+        "https://academic.jyunko.cn/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
@@ -159,6 +161,7 @@ def fetch_blog_entries():
         }
         for entry in entries
     ]
+
 
 def fetch_fm_entries():
     entries = feedparser.parse("https://fm.jyunko.cn/feed.xml")["entries"]
@@ -171,6 +174,7 @@ def fetch_fm_entries():
         }
         for entry in entries
     ]
+
 
 if __name__ == "__main__":
     readme = root / "README.md"
@@ -240,10 +244,11 @@ if __name__ == "__main__":
     print(entries_md)
     print()
     rewritten = replace_chunk(rewritten, "blog", entries_md)
-    
+
     fm_entries = fetch_fm_entries()[:6]
     fm_entries_md = "\n\n".join(
-        ["<details open=\"true\"><summary>{published}</summary><a>{categlory}</a><li><a href=\"{url}\">{title}</a></li></details>".format(**entry) for entry in fm_entries]
+        ["<details open=\"true\"><summary>{published}</summary><a>{categlory}</a><li><a href=\"{url}\">{title}</a></li></details>".format(
+            **entry) for entry in fm_entries]
     )
     print()
     print(fm_entries_md)
