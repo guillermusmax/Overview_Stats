@@ -238,7 +238,8 @@ if __name__ == "__main__":
 
     entries = fetch_blog_entries()[:6]
     entries_md = "\n\n".join(
-        ["[{title}]({url}) - {published}".format(**entry) for entry in entries]
+        ["<details open=\"true\"><summary>{published}</summary><a>{categlory}</a><li><a href=\"{url}\">{title}</a></li></details>".format(
+            **entry) for entry in entries]
     )
     print()
     print(entries_md)
