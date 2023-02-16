@@ -79,38 +79,50 @@ _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 "
         <details>
         <summary>2021-10-23</summary>
-        Fragments (断章 - 断篇)](https://fm.jyunko.cn/Fragments)
+        <a href="https://fm.jyunko.cn/Fragments">Fragments (断章 - 断篇)</a>
         </details>
+        
+        
 
 "
         <details>
         <summary>2021-05-22</summary>
-        So was your heart?](https://fm.jyunko.cn/So-was-your-heart)
+        <a href="https://fm.jyunko.cn/So-was-your-heart">So was your heart?</a>
         </details>
+        
+        
 
 "
         <details>
         <summary>2021-01-23</summary>
-        Pain,K(special day work)](https://fm.jyunko.cn/paink)
+        <a href="https://fm.jyunko.cn/paink">Pain,K(special day work)</a>
         </details>
+        
+        
 
 "
         <details>
         <summary>2020-12-15</summary>
-        温存，琴弦之所以断了的理由](https://fm.jyunko.cn/winter)
+        <a href="https://fm.jyunko.cn/winter">温存，琴弦之所以断了的理由</a>
         </details>
+        
+        
 
 "
         <details>
         <summary>2020-09-25</summary>
-        Decades;2020~2019](https://fm.jyunko.cn/Decades)
+        <a href="https://fm.jyunko.cn/Decades">Decades;2020~2019</a>
         </details>
+        
+        
 
 "
         <details>
         <summary>2020-01-19</summary>
-        ¡ ƒ=(1-sinθ) ! (心脏线)](https://fm.jyunko.cn/Cardioid)
+        <a href="https://fm.jyunko.cn/Cardioid">¡ ƒ=(1-sinθ) ! (心脏线)</a>
         </details>
+        
+        
 <!-- fm ends -->
 _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
 </td></tr></table>
