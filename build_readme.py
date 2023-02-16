@@ -245,8 +245,10 @@ if __name__ == "__main__":
         [""""
         <details>
         <summary>{published}</summary>
-        {title}]({url})
-        </details>""".format(**entry) for entry in fm_entries]
+        <a href="{url}">{title}</a>
+        </details>
+        
+        """.format(**entry) for entry in fm_entries]
     )
     print()
     print(fm_entries_md)
