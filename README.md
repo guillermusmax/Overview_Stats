@@ -40,6 +40,8 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 <!-- recent_releases starts -->
 [iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-f8f8ac57ba2bd5324ec5) - Near Future
 
+[flarum-post-formatter v0.0.1✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.1) - 2023-02-17
+
 [OlivaBiliLive v3](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-8bf4ca6c48e6c3164a42) - 2023-02-12
 
 [retro_pkg_test v3.1415 🌈](https://github.com/retrofor/retro_pkg_test/releases/tag/v3.1415) - 2023-02-01
@@ -51,8 +53,6 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 [OlivaSubHlp v3](https://github.com/HsiangNianian/OlivaSubHlp/releases/tag/3) - 2023-01-22
 
 [rssSub release-1.1.0](https://github.com/HsiangNianian/rssSub/releases/tag/release-1.1.0) - 2023-01-10
-
-[ssJSKFJDJ 20230107 更新](https://github.com/HsiangNianian/ssJSKFJDJ/releases/tag/20230107) - 2023-01-07
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
