@@ -40,7 +40,7 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 <!-- recent_releases starts -->
 [iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-f8f8ac57ba2bd5324ec5) - Near Future
 
-[flarum-post-formatter v0.0.3✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.3) - 2023-02-17
+[flarum-post-formatter v0.0.4✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.4) - 2023-02-17
 
 [OlivaBiliLive v3](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-8bf4ca6c48e6c3164a42) - 2023-02-12
 

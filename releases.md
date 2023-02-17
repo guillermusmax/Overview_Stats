@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->166<!-- releases_count ends --> releases across <!-- project_count starts -->22<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->167<!-- releases_count ends --> releases across <!-- project_count starts -->22<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[iamai](https://github.com/retrofor/iamai)**: [v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-f8f8ac57ba2bd5324ec5) - ([17 releases total](https://github.com/retrofor/iamai/releases))  - Near Future
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
-* **[flarum-post-formatter](https://github.com/HsiangNianian/flarum-post-formatter)**: [v0.0.3✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.3) - ([3 releases total](https://github.com/HsiangNianian/flarum-post-formatter/releases))  - 2023-02-17
+* **[flarum-post-formatter](https://github.com/HsiangNianian/flarum-post-formatter)**: [v0.0.4✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.4) - ([4 releases total](https://github.com/HsiangNianian/flarum-post-formatter/releases))  - 2023-02-17
 <br />Flarum plugin that allows posts to be formatted and rendered with a subset of BBCode and HTML
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [v3](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-8bf4ca6c48e6c3164a42) - ([14 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - 2023-02-12
 <br />可插件化管理的B站直播间机器人
