@@ -14,6 +14,8 @@ I have always had an absurd idea-composing music in a programming language and p
 I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associated projects. If you are interested abou it, just [via me an email](mailto:admin@jyunko.cn).
 </td><td valign="top" width="33%">
 <p align="right">
+
+### 📕My Diary :s
   
 <!-- diary starts -->
 <details open="true"><summary>2023-02-18</summary><li><a href="https://diary.jyunko.cn/2023/02/18/Sat">《308 - 2023.02.18》</a></li></details>
@@ -22,7 +24,9 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 
 <details open="true"><summary>2023-02-16</summary><li><a href="https://diary.jyunko.cn/2023/02/16/Thu">《308 - 2023.02.16》</a></li></details>
 <!-- diary ends -->
-  
+
+_More on [diary.jyunko.cn](https://diary.jyunko.cn)_ or 
+_you can join [us](https://github.com/Diaries-Store)_
 </p>
 </td></tr></table>
 
@@ -73,7 +77,7 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
 </td><td valign="top" width="33%">
 
-### 📕Academic site
+### 📰Academic site
 <!-- blog starts -->
 <details><summary>2023-01-18 <a href="https://academic.jyunko.cn/2023/01/18/Training-an-acoustic-model-for-CMUSphinx-zh-CN">训练自己的声学模型</a></summary><p>声学模型主要用于计算语音特征和每个发音模板之间的似然度。目的是为每个声学单元建立一套模型参数（通过不断地学习和改进得到最优的，也就是概率最大的一组HMM模型参数）。</p></details>
 
