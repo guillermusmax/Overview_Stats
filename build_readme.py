@@ -273,7 +273,7 @@ if __name__ == "__main__":
     diary_entries = fetch_diary_entries()[:3]
     diary_entries_md = "\n\n".join(
         ["<details open=\"true\"><summary>{published}</summary><li><a href=\"{url}\">{title}</a></li></details>".format(
-            **entry) for entry in fm_entries]
+            **entry) for entry in diary_entries]
     )
     print()
     print(diary_entries_md)
