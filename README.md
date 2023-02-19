@@ -1,4 +1,4 @@
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="90%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="60%">
   
 🐱‍🏍**Artificial Intelligence** | **Music Theories**
 
@@ -12,7 +12,7 @@ I have always had an absurd idea-composing music in a programming language and p
 > _我正在编写自己的机器学习与跨平台机器人[框架](https://github.com/retrofor/IamAI/)，如果你对此感兴趣可以给我发送[邮件](mailto:admin@jyunko.cn)。_
 
 I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associated projects. If you are interested abou it, just [via me an email](mailto:admin@jyunko.cn).
-</td><td valign="top" width="70%">
+</td><td valign="top" width="33%">
 <p align="right">
   
 <!-- diary starts -->
