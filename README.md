@@ -1,4 +1,4 @@
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="80%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="90%">
   
 🐱‍🏍**Artificial Intelligence** | **Music Theories**
 
@@ -22,7 +22,7 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 </p>
 </td></tr></table>
 
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="10%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="50%">
   
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
