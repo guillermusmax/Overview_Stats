@@ -176,6 +176,19 @@ def fetch_fm_entries():
         for entry in entries
     ]
 
+def fetch_diary_entries():
+    entries = feedparser.parse(
+        "https://diary.jyunko.cn/feed.xml")["entries"]
+    print(entries)
+    return [
+        {
+            "title": entry["title"],
+            "url": entry["id"],
+            "published": entry["published"].split("T")[0]
+            # "summary": entry["summary"]
+        }
+        for entry in entries
+    ]
 
 if __name__ == "__main__":
     readme = root / "README.md"
@@ -236,7 +249,7 @@ if __name__ == "__main__":
 #         ]
 #     )
 #     rewritten = replace_chunk(rewritten, "tils", tils_md)
-
+    # blog
     entries = fetch_blog_entries()[:6]
     entries_md = "\n\n".join(
         ["<details><summary>{published} <a href=\"{url}\">{title}</a></summary><p>{summary}</p></details>".format(
@@ -246,7 +259,7 @@ if __name__ == "__main__":
     print(entries_md)
     print()
     rewritten = replace_chunk(rewritten, "blog", entries_md)
-
+    # fm
     fm_entries = fetch_fm_entries()[:6]
     fm_entries_md = "\n\n".join(
         ["<details open=\"true\"><summary>{published} {categlory}</summary><li><a href=\"{url}\">{title}</a></li></details>".format(
@@ -256,5 +269,15 @@ if __name__ == "__main__":
     print(fm_entries_md)
     print()
     rewritten = replace_chunk(rewritten, "fm", fm_entries_md)
+    # diary
+    diary_entries = fetch_diary_entries()[:6]
+    diary_entries_md = "\n\n".join(
+        ["<details open=\"true\"><summary>{published}</summary><li><a href=\"{url}\">{title}</a></li></details>".format(
+            **entry) for entry in fm_entries]
+    )
+    print()
+    print(diary_entries_md)
+    print()
+    rewritten = replace_chunk(rewritten, "diary", diary_entries_md)
 
     readme.open("w").write(rewritten)
