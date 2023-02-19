@@ -15,7 +15,7 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 </td><td valign="top" width="33%">
 <p align="right">
 
-### 📕My Diary :s
+### 📕My Diaries :s
   
 <!-- diary starts -->
 <details open="true"><summary>2023-02-18</summary><li><a href="https://diary.jyunko.cn/2023/02/18/Sat">《308 - 2023.02.18》</a></li></details>
