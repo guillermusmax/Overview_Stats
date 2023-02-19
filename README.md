@@ -16,17 +16,7 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 <p align="right">
   
 <!-- diary starts -->
-<details open="true"><summary>2021-10-23</summary><li><a href="https://fm.jyunko.cn/Fragments">Fragments (断章 - 断篇)</a></li></details>
 
-<details open="true"><summary>2021-05-22</summary><li><a href="https://fm.jyunko.cn/So-was-your-heart">So was your heart?</a></li></details>
-
-<details open="true"><summary>2021-01-23</summary><li><a href="https://fm.jyunko.cn/paink">Pain,K(special day work)</a></li></details>
-
-<details open="true"><summary>2020-12-15</summary><li><a href="https://fm.jyunko.cn/winter">温存，琴弦之所以断了的理由</a></li></details>
-
-<details open="true"><summary>2020-09-25</summary><li><a href="https://fm.jyunko.cn/Decades">Decades;2020~2019</a></li></details>
-
-<details open="true"><summary>2020-01-19</summary><li><a href="https://fm.jyunko.cn/Cardioid">¡ ƒ=(1-sinθ) ! (心脏线)</a></li></details>
 <!-- diary ends -->
   
 </p>
