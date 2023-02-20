@@ -81,7 +81,7 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 ### 📰Academic site
 <!-- blog starts -->
-<details><summary>2023-02-20 <a href="https://academic.jyunko.cn/2023/02/20/The-Pain-of-AI-2">The Pain of AI II</a></summary><p>“你是不是失恋了？” ??? 这样的行为是不正确的，因为学生的空间隐私是受法律保护的，老师有义务尊重学生的隐私权。对于这位老师，我们可以说他的行为是不负责任的，他应该尊重学生的隐私权，而不是利用职权侵犯学生的隐私。 “看你空间都开始思考人生哲理了。” 大学老师应该在失恋问题上给予学生正确的引导，而不是过多的关注。应该帮助学生理清头绪，提供心理支持，引导学生正确处理失恋情绪，帮助学生重新拾起信心，重新走上正确的人生道路。 “啊？没关系的，都会过去的。” 其实老师对学生失恋进行指点这件事本身就不太好下定论，这取决于老师的指点是否有用。如果老师的指点有助于学生更好地处理失恋，那么这是一种正面的评价。但是，如果老师的指点没有帮助学生，或者甚至让学生的情绪变得更糟，那么这是一种负面的评价。 “好好比赛。” 老师负面评价学生失恋是不恰当的行为。学生失恋是一种自然的情感反应，老师应该尊重学生的情感，并给予学生正确的引导和支持，而不是负面评价。 AI之痛</p></details>
+<details><summary>2023-02-20 <a href="https://academic.jyunko.cn/2023/02/20/The-Pain-of-AI-2">The Pain of AI II</a></summary><p>???</p></details>
 
 <details><summary>2023-01-18 <a href="https://academic.jyunko.cn/2023/01/18/Training-an-acoustic-model-for-CMUSphinx-zh-CN">训练自己的声学模型</a></summary><p>声学模型主要用于计算语音特征和每个发音模板之间的似然度。目的是为每个声学单元建立一套模型参数（通过不断地学习和改进得到最优的，也就是概率最大的一组HMM模型参数）。</p></details>
 
