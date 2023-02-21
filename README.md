@@ -91,7 +91,7 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 <details><summary>2023-01-10 <a href="https://academic.jyunko.cn/2023/01/10/GPT-3-vs-Rasa-chatbots">GPT-3 vs. Rasa chatbots</a></summary><p>Richard Trevithick’s locomotive — the GPT-3 of the early 19th century (Shutterstock.com)</p></details>
 
-<details><summary>2023-01-09 <a href="https://academic.jyunko.cn/2023/01/09/The-Pain-of-AI">The Pain of AI</a></summary><p></p></details>
+<details><summary>2023-01-09 <a href="https://academic.jyunko.cn/2023/01/09/The-Pain-of-AI">The Pain of AI</a></summary><p>???</p></details>
 <!-- blog ends -->
 
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
