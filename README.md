@@ -59,7 +59,7 @@ _you can join [us](https://github.com/Diaries-Store)_
 
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v3.1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.1) - 2023-02-20
+[iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-59ba53b8f6f1c9dae05e) - Near Future
 
 [flarum-post-formatter v0.0.4✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.4) - 2023-02-17
 
