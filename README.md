@@ -21,7 +21,7 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 <p align="right">
 
 ### 📕My Diaries :s
-> 在琴谱上，我们学会了理论，跟别人相处之后，才理解了音乐。
+> 在琴谱上，我们学会了理论，但是跟别人相处之后，才理解了音乐。
 <!-- diary starts -->
 <details open="true"><summary>2023-02-18</summary><li><a href="https://diary.jyunko.cn/2023/02/18/Sat">《308 - 2023.02.18》</a></li></details>
 
