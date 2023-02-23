@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->168<!-- releases_count ends --> releases across <!-- project_count starts -->22<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[iamai](https://github.com/retrofor/iamai)**: [v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-59ba53b8f6f1c9dae05e) - ([18 releases total](https://github.com/retrofor/iamai/releases))  - Near Future
+* **[iamai](https://github.com/retrofor/iamai)**: [v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-d2f16c445bb75fa7e25a) - ([18 releases total](https://github.com/retrofor/iamai/releases))  - Near Future
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
 * **[flarum-post-formatter](https://github.com/HsiangNianian/flarum-post-formatter)**: [v0.0.4✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.4) - ([4 releases total](https://github.com/HsiangNianian/flarum-post-formatter/releases))  - 2023-02-17
 <br />Flarum plugin that allows posts to be formatted and rendered with a subset of BBCode and HTML
