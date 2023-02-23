@@ -10,13 +10,13 @@ I have always had an absurd idea-composing music in a programming language and p
 🐱‍💻**Music Theories**
 > _在这世界上我喜欢的东西并不是很多，我会写点[小曲儿](https://fm.jyunko.cn)，也会很自豪的和你说我想做个[诗人](https://www.zgshige.com/c/2022-07-25/22158479.shtml)，我喜欢雪花。_
 
-I don't really like most things in this world, but I write [some tiny songs](https://fm.jyunko.cn), and I wanna to be [a poet](https://www.zgshige.com/c/2022-07-25/22158479.shtml)... By the way, I like snowflakes ❄️.
+I don't really like most things in this world, but I write [some tiny songs](https://fm.jyunko.cn), and I wanna to be [a poet](https://www.zgshige.com/c/2022-07-25/22158479.shtml)... By the way, I like snowflakes ❄️. 
   
-🐱‍👤**Currently** 
+🐱‍👤**Currently**  
 
-> _我正在编写自己的机器学习与跨平台机器人[框架](https://github.com/retrofor/IamAI/)，如果你对此感兴趣可以给我发送[邮件](mailto:admin@jyunko.cn)。_
+> _我正在编写自己的机器学习与跨平台机器人[框架](https://github.com/retrofor/IamAI/) ，如果你对此感兴趣可以给我发送[邮件](mailto:admin@jyunko.cn)。_   <img align="center" width="100" src="https://iamai.retrofor.space/img/logo.png"> +  <img align="center" width="60" src="https://iamai.retrofor.space/img/retro.png">
 
-I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associated projects. If you are interested abou it, just [via me an email](mailto:admin@jyunko.cn).
+I am contributing to the [IamAI](https://github.com/retrofor/IamAI/)  and associated projects. If you are interested abou it, just [via me an email](mailto:admin@jyunko.cn). 
 </td><td valign="top" width="33%">
 <p align="right">
 
@@ -43,10 +43,10 @@ _you can join [us](https://github.com/Diaries-Store)_
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                601 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-🌆 Daytime                1017 commits        ████████░░░░░░░░░░░░░░░░░   30.51 % 
-🌃 Evening                788 commits         ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-🌙 Night                  927 commits         ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+🌞 Morning                601 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+🌆 Daytime                1017 commits        ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌃 Evening                785 commits         ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+🌙 Night                  927 commits         ███████░░░░░░░░░░░░░░░░░░   27.84 % 
 ```
 
 
