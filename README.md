@@ -1,12 +1,17 @@
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="60%">
   
-🐱‍🏍**Artificial Intelligence** | **Music Theories**
+🐱‍🏍**Artificial Intelligence** 
 
-> _你好，我是一名AI专业的大学生，很高兴认识你。在这世界上我喜欢的东西并不是很多，我会写点[小曲儿](https://fm.jyunko.cn)，也会很自豪的和你说我是个[诗人](https://www.zgshige.com/c/2022-07-25/22158479.shtml)。_
+> _你好，我是一名AI专业的大学生，很高兴认识你。_
 
 There’s going to be something more academic and something that fascinates me. 
 I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/academic-jyunko)).
 
+🐱‍💻**Music Theories**
+> _在这世界上我喜欢的东西并不是很多，我会写点[小曲儿](https://fm.jyunko.cn)，也会很自豪的和你说我想做个[诗人](https://www.zgshige.com/c/2022-07-25/22158479.shtml)，我喜欢雪花。_
+
+I don't really like most things in this world, but I write [some tiny songs](https://fm.jyunko.cn), and I wanna to be [a poet](https://www.zgshige.com/c/2022-07-25/22158479.shtml)... By the way, I like snowflakes ❄️.
+  
 🐱‍👤**Currently** 
 
 > _我正在编写自己的机器学习与跨平台机器人[框架](https://github.com/retrofor/IamAI/)，如果你对此感兴趣可以给我发送[邮件](mailto:admin@jyunko.cn)。_
@@ -16,7 +21,7 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/) and associa
 <p align="right">
 
 ### 📕My Diaries :s
-  
+> 在琴谱上，我们学会了理论，跟别人相处之后，才理解了音乐。
 <!-- diary starts -->
 <details open="true"><summary>2023-02-18</summary><li><a href="https://diary.jyunko.cn/2023/02/18/Sat">《308 - 2023.02.18》</a></li></details>
 
