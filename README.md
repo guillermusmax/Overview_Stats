@@ -70,11 +70,15 @@ Sunday                   507 commits         ████░░░░░░░�
   > ✨你应该能够很轻而易举的在晚上找到我。(Catch me night only.)
 </td><td valign="top" width="33%">
 <p align="right">
-<img width="500" align="center" src="./profile-3d-contrib/profile-night-rainbow.svg">
+<img width="900" align="center" src="./profile-3d-contrib/profile-night-rainbow.svg">
 
   ***
   
-<img width="500" align="center" src="./assets/bar_graph.png">
+  > why not copy?
+  
+  ***
+  
+<img width="900" align="center" src="./assets/bar_graph.png">
 </p>
 </td></tr></table>
 
