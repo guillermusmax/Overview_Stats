@@ -86,7 +86,7 @@ Sunday                   507 commits         ████░░░░░░░�
 
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-d3bdf60525b897d06128) - Near Future
+[iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-b9f8bf698cee1cf9403e) - Near Future
 
 [flarum-post-formatter v0.0.4✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.4) - 2023-02-17
 
