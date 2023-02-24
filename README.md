@@ -68,7 +68,8 @@ iamai                    33 mins             █░░░░░░░░░░�
   > ✨你应该能够很轻而易举的在晚上找到我。(Catch me tonight.)
 </td><td valign="top" width="33%">
 <p align="right">
-<img width="500" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+<img width="500" align="center" src="./profile-3d-contrib/profile-night-rainbow.svg">
+<img hidth="300" align="center" src="./charts/bar_graph.png">
 </p>
 </td></tr></table>
 
