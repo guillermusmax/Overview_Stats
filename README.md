@@ -74,10 +74,6 @@ python-github-bot-api-dev50 mins             █░░░░░░░░░░�
 iamai                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/HsiangNianian/HsiangNianian/main/assets/bar_graph.png)
-
 
 <!--END_SECTION:waka-->
   > ✨你应该能够很轻而易举的在晚上找到我。(Catch me tonight.)
@@ -87,7 +83,7 @@ iamai                    33 mins             █░░░░░░░░░░�
 
   ***
   
-<img hidth="300" align="center" src="./charts/bar_graph.png">
+<img hidth="300" align="center" src="./assets/bar_graph.png">
 </p>
 </td></tr></table>
 
