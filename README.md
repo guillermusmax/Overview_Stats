@@ -78,7 +78,7 @@ Sunday                   507 commits         ████░░░░░░░�
   
   ***
   
-<img width="900" align="center" src="./assets/bar_graph.png">
+<img width="1000" align="center" src="./assets/bar_graph.png">
 </p>
 </td></tr></table>
 
