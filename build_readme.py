@@ -270,7 +270,7 @@ if __name__ == "__main__":
     print()
     rewritten = replace_chunk(rewritten, "fm", fm_entries_md)
     # diary
-    diary_entries = fetch_diary_entries()[:4]
+    diary_entries = fetch_diary_entries()[:6]
     diary_entries_md = "\n\n".join(
         ["<details open=\"true\"><summary>{published}</summary><li><a href=\"{url}\">{title}</a></li></details>".format(
             **entry) for entry in diary_entries]
