@@ -39,7 +39,7 @@ _you can join [us](https://github.com/Diaries-Store)_
 </p>
 </td></tr></table>
 
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="60%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="10%">
   
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
