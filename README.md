@@ -30,6 +30,10 @@ I am contributing to the [IamAI](https://github.com/retrofor/IamAI/)  and associ
 <details open="true"><summary>2023-02-16</summary><li><a href="https://diary.jyunko.cn/2023/02/16/Thu">《308 - 2023.02.16》</a></li></details>
 
 <details open="true"><summary>2023-01-31</summary><li><a href="https://diary.jyunko.cn/2023/01/31/QY-dairy">《白秋日记（2023.01.31~2023.12.31）》</a></li></details>
+
+<details open="true"><summary>2021-12-26</summary><li><a href="https://diary.jyunko.cn/2021/12/26/Sun">《2020.12.6~2021.12.6 - 2021.12.26》</a></li></details>
+
+<details open="true"><summary>2021-12-24</summary><li><a href="https://diary.jyunko.cn/2021/12/24/Fri">《2020.12.6~2021.12.6 - 2021.12.24》</a></li></details>
 <!-- diary ends -->
 
 _More on [diary.jyunko.cn](https://diary.jyunko.cn)_ or 
@@ -63,7 +67,7 @@ _you can join [us](https://github.com/Diaries-Store)_
 
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-45185e091ede681ded42) - Near Future
+[iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-d3bdf60525b897d06128) - Near Future
 
 [flarum-post-formatter v0.0.4✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.4) - 2023-02-17
 
