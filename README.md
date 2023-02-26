@@ -81,11 +81,18 @@ Sunday                   533 commits         ████░░░░░░░�
   ***
   
 <img width="1000" align="center" src="./assets/bar_graph.png">
+    
+  ***
+  
+  > Human Vs. AI (1:0) :S
+  
+  ***
+  
 </p>
 </td></tr></table>
 
 <table><tr><td valign="top" width="33%">
-
+  
 ### 🏷Recent releases
 <!-- recent_releases starts -->
 [iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-b9f8bf698cee1cf9403e) - Near Future
