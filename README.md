@@ -67,7 +67,9 @@ Sunday                   533 commits         ████░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-  > ✨你应该能够很轻而易举的在晚上(尤其是周日晚至周一凌晨)找到我。(Catch me night only, especially between the Sun. evening to the Mon. early morning. )
+  > _✨你应该能够很轻而易举的在晚上(尤其是周日晚至周一凌晨)找到我。_
+  
+  ✨Catch me night only, especially between the Sun. evening to the Mon. early morning. 
 </td><td valign="top" width="33%">
 <p align="right">
 <img width="900" align="center" src="./profile-3d-contrib/profile-night-rainbow.svg">
