@@ -81,13 +81,6 @@ Sunday                   533 commits         ████░░░░░░░�
   ***
   
 <img width="1000" align="center" src="./assets/bar_graph.png">
-  
-  ***
-  
-  > Why Copy??
-  
-  ***
-  
 </p>
 </td></tr></table>
 
