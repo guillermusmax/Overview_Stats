@@ -97,6 +97,8 @@ Sunday                   547 commits         ████░░░░░░░�
 <!-- recent_releases starts -->
 [iamai v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-b9f8bf698cee1cf9403e) - Near Future
 
+[OlivaGithub v3.141 🌈](https://github.com/HsiangNianian/OlivaGithub/releases/tag/v3.141) - 2023-02-27
+
 [flarum-post-formatter v0.0.4✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.4) - 2023-02-17
 
 [OlivaBiliLive v3](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-8bf4ca6c48e6c3164a42) - 2023-02-12
@@ -108,8 +110,6 @@ Sunday                   547 commits         ████░░░░░░░�
 [Oliva_Plugin_GPT release-v0.1.0](https://github.com/retrofor/Oliva_Plugin_GPT/releases/tag/v0.1.0) - 2023-01-24
 
 [OlivaSubHlp v3](https://github.com/HsiangNianian/OlivaSubHlp/releases/tag/3) - 2023-01-22
-
-[rssSub release-1.1.0](https://github.com/HsiangNianian/rssSub/releases/tag/release-1.1.0) - 2023-01-10
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
