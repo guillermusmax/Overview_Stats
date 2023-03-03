@@ -95,7 +95,7 @@ Sunday                   547 commits         ████░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v3.14.1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-f378c496b61ef073623b) - Near Future
+[iamai v3.14.1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-80afbe975d97468896cf) - Near Future
 
 [OlivaBiliLive v3](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-fb82accb784c3a50c9c2) - Near Future
 
