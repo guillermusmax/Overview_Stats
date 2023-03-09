@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->166<!-- releases_count ends --> releases across <!-- project_count starts -->23<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->158<!-- releases_count ends --> releases across <!-- project_count starts -->23<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.14.1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-cb29cd293f4f6b7bce43) - ([10 releases total](https://github.com/retrofor/iamai/releases))  - Near Future
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
-* **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [v3](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-fb82accb784c3a50c9c2) - ([15 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
+* **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [v3.14 🌈](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/v3.14) - ([7 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - 2023-03-09
 <br />可插件化管理的B站直播间机器人
 * **[retrofor.github.io](https://github.com/retrofor/retrofor.github.io)**: [v2023.0.7](https://github.com/retrofor/retrofor.github.io/releases/tag/v2023.0.7) - ([90 releases total](https://github.com/retrofor/retrofor.github.io/releases))  - 2023-02-28
 <br />None
