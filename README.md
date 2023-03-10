@@ -72,7 +72,7 @@ Sunday                   573 commits         ████░░░░░░░�
   ✨Catch me night only, especially between the Sun. evening to the Mon. early morning. 
 </td><td valign="top" width="33%">
 <p align="right">
-<img width="900" align="center" src="./profile-3d-contrib/profile-night-rainbow.svg">
+<img width="900" align="center" src="https://ghproxy.com/https://github.com/HsiangNianian/HsiangNianian/raw/main/profile-3d-contrib/profile-night-rainbow.svg">
 
   ***
   
@@ -80,7 +80,7 @@ Sunday                   573 commits         ████░░░░░░░�
   
   ***
   
-<img width="1000" align="center" src="./assets/bar_graph.png">
+<img width="1000" align="center" src="https://ghproxy.com/https://github.com/HsiangNianian/HsiangNianian/raw/main/assets/bar_graph.png">
     
   ***
   
