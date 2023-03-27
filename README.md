@@ -97,7 +97,7 @@ Sunday                   1495 commits        █████░░░░░░�
 <!-- recent_releases starts -->
 [iamai v3.14.1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-394b13ff4e0b21a50f3c) - Near Future
 
-[sealdice v100](https://github.com/HsiangNianian/sealdice/releases/tag/100) - 2023-03-27
+[sealdice v101](https://github.com/HsiangNianian/sealdice/releases/tag/101) - 2023-03-27
 
 [OlivaBiliLive v3.14 🌈](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/v3.14) - 2023-03-09
 
