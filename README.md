@@ -97,6 +97,8 @@ Sunday                   1495 commits        █████░░░░░░�
 <!-- recent_releases starts -->
 [iamai v3.14.1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-394b13ff4e0b21a50f3c) - Near Future
 
+[sealdice v100](https://github.com/HsiangNianian/sealdice/releases/tag/100) - 2023-03-27
+
 [OlivaBiliLive v3.14 🌈](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/v3.14) - 2023-03-09
 
 [retrofor.github.io v2023.0.7](https://github.com/retrofor/retrofor.github.io/releases/tag/v2023.0.7) - 2023-02-28
@@ -108,8 +110,6 @@ Sunday                   1495 commits        █████░░░░░░�
 [retro_pkg_test v3.1415 🌈](https://github.com/retrofor/retro_pkg_test/releases/tag/v3.1415) - 2023-02-01
 
 [Oliva_Plugin_GPT release-v0.1.0](https://github.com/retrofor/Oliva_Plugin_GPT/releases/tag/v0.1.0) - 2023-01-24
-
-[OlivaSubHlp v3](https://github.com/HsiangNianian/OlivaSubHlp/releases/tag/3) - 2023-01-22
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
