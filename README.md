@@ -95,7 +95,7 @@ Sunday                   1495 commits        █████░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v3.14.1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-cf8c86e56a3d81989a1a) - Near Future
+[iamai v3.14.1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.14.1) - 2023-03-30
 
 [sealdice v101](https://github.com/HsiangNianian/sealdice/releases/tag/101) - 2023-03-27
 

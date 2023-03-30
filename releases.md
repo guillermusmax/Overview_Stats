@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->161<!-- releases_count ends --> releases across <!-- project_count starts -->24<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->160<!-- releases_count ends --> releases across <!-- project_count starts -->24<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[iamai](https://github.com/retrofor/iamai)**: [v3.14.1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-cf8c86e56a3d81989a1a) - ([11 releases total](https://github.com/retrofor/iamai/releases))  - Near Future
+* **[iamai](https://github.com/retrofor/iamai)**: [v3.14.1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.14.1) - ([10 releases total](https://github.com/retrofor/iamai/releases))  - 2023-03-30
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
 * **[sealdice](https://github.com/HsiangNianian/sealdice)**: [v101](https://github.com/HsiangNianian/sealdice/releases/tag/101) - ([2 releases total](https://github.com/HsiangNianian/sealdice/releases))  - 2023-03-27
 <br />My sealdice plugins
