@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->162<!-- releases_count ends --> releases across <!-- project_count starts -->24<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[iamai](https://github.com/retrofor/iamai)**: [v3.14.2 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-08ff49e959f3d3dd9dff) - ([11 releases total](https://github.com/retrofor/iamai/releases))  - Near Future
+* **[iamai](https://github.com/retrofor/iamai)**: [v3.14.2 🌈](https://github.com/retrofor/iamai/releases/tag/v3.14.2) - ([11 releases total](https://github.com/retrofor/iamai/releases))  - 2023-04-03
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
 * **[Civilian-SealDice](https://github.com/HsiangNianian/Civilian-SealDice)**: [v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - ([3 releases total](https://github.com/HsiangNianian/Civilian-SealDice/releases))  - 2023-04-03
 <br />My sealdice plugins
