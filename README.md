@@ -95,7 +95,7 @@ Sunday                   1049 commits        ████░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v3.14.2-rc2 🌈](https://github.com/retrofor/iamai/releases/tag/v3.14.2-rc2) - 2023-04-04
+[iamai v3.14.3 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-42abc5fb83d57eb079d9) - Near Future
 
 [Civilian-SealDice v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - 2023-04-03
 
