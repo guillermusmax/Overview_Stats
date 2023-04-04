@@ -135,6 +135,8 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 ### 📰Academic site
 <!-- blog starts -->
+<details><summary>2023-04-04 <a href="https://academic.jyunko.cn/2023/04/04/April-Fours-Day">关于几位开发组四月四日利用漏洞恶意攻击Bot账号一事</a></summary><p>我认为，</p></details>
+
 <details><summary>2023-02-20 <a href="https://academic.jyunko.cn/2023/02/20/The-Pain-of-AI-2">The Pain of AI II</a></summary><p>???</p></details>
 
 <details><summary>2023-01-18 <a href="https://academic.jyunko.cn/2023/01/18/Training-an-acoustic-model-for-CMUSphinx-zh-CN">训练自己的声学模型</a></summary><p>声学模型主要用于计算语音特征和每个发音模板之间的似然度。目的是为每个声学单元建立一套模型参数（通过不断地学习和改进得到最优的，也就是概率最大的一组HMM模型参数）。</p></details>
@@ -144,8 +146,6 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 <details><summary>2023-01-10 <a href="https://academic.jyunko.cn/2023/01/10/ASR-Detection-System-of-Sensitive-Words-Based-on-MFSC-Algorithm">ASR Detection System of Sensitive Words Based on MFSC Algorithm</a></summary><p>基于MFSC算法的ASR检测敏感词系统， 此页面为未来paper与软著的提交页面。</p></details>
 
 <details><summary>2023-01-10 <a href="https://academic.jyunko.cn/2023/01/10/GPT-3-vs-Rasa-chatbots">GPT-3 vs. Rasa chatbots</a></summary><p>Richard Trevithick’s locomotive — the GPT-3 of the early 19th century (Shutterstock.com)</p></details>
-
-<details><summary>2023-01-09 <a href="https://academic.jyunko.cn/2023/01/09/The-Pain-of-AI">The Pain of AI</a></summary><p>???</p></details>
 <!-- blog ends -->
 
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
