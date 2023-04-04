@@ -135,7 +135,7 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 ### 📰Academic site
 <!-- blog starts -->
-<details><summary>2023-04-04 <a href="https://academic.jyunko.cn/2023/04/04/April-Fours-Day">关于几位小丑四月四日利用漏洞恶意攻击Bot账号一事</a></summary><p>* 主犯 [A60](https://github.com/djkcyl)、[Bryan不可思议](https://github.com/ProgramRipper) * 从犯 [Tarrailt](https://github.com/RF-Tar-Railt)、[Akirami](https://github.com/A-Kirami) * 禁言 [Nyuan Zhang](https://github.com/blueglassblock)</p></details>
+<details><summary>2023-04-04 <a href="https://academic.jyunko.cn/2023/04/04/April-Fours-Day">关于几位小丑四月四日利用漏洞恶意攻击Bot账号一事</a></summary><p>涉事名单 A60、Bryan不可思议、Tarrailt、Akirami、Nyuan Zhang</p></details>
 
 <details><summary>2023-02-20 <a href="https://academic.jyunko.cn/2023/02/20/The-Pain-of-AI-2">The Pain of AI II</a></summary><p>???</p></details>
 
