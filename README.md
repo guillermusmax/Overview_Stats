@@ -1,14 +1,15 @@
-<img width="130" align="left" src="https://th.bing.com/th/id/OIP.-pEpS0FvPC2OpvnNrRGrugAAAA?w=170&h=180&c=7&r=0&o=5&pid=1.7">
+
 
 <table style="border-color: transparent;" cellspacing=0 >
 <tr><td valign="center" width="60%">
 
-**Blacklist developers and projects (黑名单)**
+<img width="30" align="left" src="https://th.bing.com/th/id/OIP.-pEpS0FvPC2OpvnNrRGrugAAAA?w=170&h=180&c=7&r=0&o=5&pid=1.7">**Blacklist developers and projects (黑名单)**
   
 > 以下是开发者黑名单，不建议接触。谨以这个告示板通知同类圈子内的开发者。
   
-  第一批: [Akirami](https://github.com/A-Kirami)、[Nyuan Zhang](https://github.com/blueglassblock)、[A60](https://github.com/djkcyl)、[Bryan不可思议](https://github.com/ProgramRipper)、[Tarrailt](https://github.com/RF-Tar-Railt)
-  原因: 2023年4月4日的*恶意攻击*[^1]行为。
+  **第一批**
+  * [Akirami](https://github.com/A-Kirami)、[Nyuan Zhang](https://github.com/blueglassblock)、[A60](https://github.com/djkcyl)、[Bryan不可思议](https://github.com/ProgramRipper)、[Tarrailt](https://github.com/RF-Tar-Railt)
+  原因: 2023年4月4日对测试环境的*恶意攻击*[^1]行为，事发后不会感到丝毫羞耻。
   
   [^1]: https://academic.jyunko.cn/2023/04/04/April-Fours-Day
   
