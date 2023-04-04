@@ -5,7 +5,7 @@
 
 <img width="30" align="left" src="https://th.bing.com/th/id/OIP.-pEpS0FvPC2OpvnNrRGrugAAAA?w=170&h=180&c=7&r=0&o=5&pid=1.7">**Blacklist developers and projects (黑名单)**
   
-> 以下是开发者黑名单，不建议接触。谨以这个告示板通知同类圈子内的开发者。
+> 以下是开发者黑名单，不建议接触。谨以这个告示板通知同类圈子内的开发者提防此类读书甚少不太懂事的人。
   
   **第一批**
   * [Akirami](https://github.com/A-Kirami)、[Nyuan Zhang](https://github.com/blueglassblock)、[A60](https://github.com/djkcyl)、[Bryan不可思议](https://github.com/ProgramRipper)、[Tarrailt](https://github.com/RF-Tar-Railt)
