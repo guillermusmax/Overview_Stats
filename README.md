@@ -1,4 +1,22 @@
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="60%">
+<img width="130" align="left" src="https://th.bing.com/th/id/OIP.-pEpS0FvPC2OpvnNrRGrugAAAA?w=170&h=180&c=7&r=0&o=5&pid=1.7">
+
+<table style="border-color: transparent;" cellspacing=0 >
+<tr><td valign="center" width="60%">
+
+**Blacklist developers and projects (黑名单)**
+  
+> 以下是开发者黑名单，不建议接触。谨以这个告示板通知同类圈子内的开发者。
+  
+  第一批: [Akirami](https://github.com/A-Kirami)、[Nyuan Zhang](https://github.com/blueglassblock)、[A60](https://github.com/djkcyl)、[Bryan不可思议](https://github.com/ProgramRipper)、[Tarrailt](https://github.com/RF-Tar-Railt)
+  原因: 2023年4月4日的*恶意攻击*[^1]行为。
+  
+  [^1]: https://academic.jyunko.cn/2023/04/04/April-Fours-Day
+  
+</td></tr></table>
+
+<br>
+
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
   
 🐱‍🏍**Artificial Intelligence** 
 
@@ -152,3 +170,5 @@ _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
 </td></tr></table>
 
 <p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
+
+  
