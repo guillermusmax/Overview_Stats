@@ -1,10 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->166<!-- releases_count ends --> releases across <!-- project_count starts -->24<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->167<!-- releases_count ends --> releases across <!-- project_count starts -->25<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.14.4.post1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-917b57e498baceb6ac33) - ([15 releases total](https://github.com/retrofor/iamai/releases))  - Near Future
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
+* **[AO3Search](https://github.com/HsiangNianian/AO3Search)**: [v0406(1)](https://github.com/HsiangNianian/AO3Search/releases/tag/0406)  - 2023-04-05
+<br />None
 * **[Civilian-SealDice](https://github.com/HsiangNianian/Civilian-SealDice)**: [v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - ([3 releases total](https://github.com/HsiangNianian/Civilian-SealDice/releases))  - 2023-04-03
 <br />My sealdice plugins
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [v3.14 🌈](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/v3.14) - ([7 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - 2023-03-09
