@@ -115,7 +115,7 @@ Sunday                   1049 commits        ████░░░░░░░�
 <!-- recent_releases starts -->
 [iamai v3.14.4.post1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-917b57e498baceb6ac33) - Near Future
 
-[AO3Search v0406(1)](https://github.com/HsiangNianian/AO3Search/releases/tag/0406) - 2023-04-05
+[AO3Search v0406.post1](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post1) - 2023-04-06
 
 [Civilian-SealDice v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - 2023-04-03
 
