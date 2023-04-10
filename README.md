@@ -115,6 +115,8 @@ Sunday                   1072 commits        ████░░░░░░░�
 <!-- recent_releases starts -->
 [iamai v3.14.4.post1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-9cd5b4766723a763b754) - Near Future
 
+[Crossplatform-pack v0.0.1✨](https://github.com/HsiangNianian/Crossplatform-pack/releases/tag/v0.0.1) - 2023-04-10
+
 [AO3Search v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - 2023-04-06
 
 [Civilian-SealDice v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - 2023-04-03
@@ -126,8 +128,6 @@ Sunday                   1072 commits        ████░░░░░░░�
 [OlivaGithub v3.1415 🐱‍👤](https://github.com/HsiangNianian/OlivaGithub/releases/tag/v3.1415) - 2023-02-28
 
 [flarum-post-formatter v0.0.4✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.4) - 2023-02-17
-
-[retro_pkg_test v3.1415 🌈](https://github.com/retrofor/retro_pkg_test/releases/tag/v3.1415) - 2023-02-01
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
