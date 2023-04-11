@@ -115,6 +115,8 @@ Sunday                   1072 commits        ████░░░░░░░�
 <!-- recent_releases starts -->
 [iamai v3.14.4.post1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-9cd5b4766723a763b754) - Near Future
 
+[Flexirobo v1.0.0 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0) - 2023-04-11
+
 [Crossplatform-pack v0.0.1✨](https://github.com/HsiangNianian/Crossplatform-pack/releases/tag/v0.0.1) - 2023-04-10
 
 [AO3Search v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - 2023-04-06
@@ -126,8 +128,6 @@ Sunday                   1072 commits        ████░░░░░░░�
 [retrofor.github.io v2023.0.7](https://github.com/retrofor/retrofor.github.io/releases/tag/v2023.0.7) - 2023-02-28
 
 [OlivaGithub v3.1415 🐱‍👤](https://github.com/HsiangNianian/OlivaGithub/releases/tag/v3.1415) - 2023-02-28
-
-[flarum-post-formatter v0.0.4✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.4) - 2023-02-17
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
