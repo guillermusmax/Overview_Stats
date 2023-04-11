@@ -115,7 +115,7 @@ Sunday                   1072 commits        ████░░░░░░░�
 <!-- recent_releases starts -->
 [iamai v3.14.4.post1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-9cd5b4766723a763b754) - Near Future
 
-[Flexirobo v1.0.0 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0) - 2023-04-11
+[Flexirobo v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - 2023-04-11
 
 [Crossplatform-pack v0.0.1✨](https://github.com/HsiangNianian/Crossplatform-pack/releases/tag/v0.0.1) - 2023-04-10
 
