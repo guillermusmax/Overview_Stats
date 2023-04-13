@@ -135,6 +135,8 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 ### 📰Academic site
 <!-- blog starts -->
+<details><summary>2023-04-13 <a href="https://academic.jyunko.cn/2023/04/13/deep-learning-zh">深度学习心得体会</a></summary><p>深度学习是机器学习领域中的一种最先进的技术，它可以在处理复杂数据时取得非常出色的效果。与传统机器学习方法相比，深度学习能够更好地处理自然语言、语音识别、图像识别、物体识别等复杂的任务。深度学习采用了一些特殊的算法和网络结构，例如神经网络，使得机器可以从数据中进行自我学习，并且可以通过大量的数据训练来不断优化自身的性能。</p></details>
+
 <details><summary>2023-04-04 <a href="https://academic.jyunko.cn/2023/04/04/April-Fours-Day">关于几位小丑四月四日利用漏洞恶意攻击我的账号一事</a></summary><p>涉事名单 A60、Bryan不可思议、Tarrailt、Akirami、Nyuan Zhang</p></details>
 
 <details><summary>2023-02-20 <a href="https://academic.jyunko.cn/2023/02/20/The-Pain-of-AI-2">The Pain of AI II</a></summary><p>???</p></details>
@@ -144,8 +146,6 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 <details><summary>2023-01-11 <a href="https://academic.jyunko.cn/2023/01/11/Training-an-acoustic-model-for-CMUSphinx-en">Training an acoustic model for CMUSphinx</a></summary><p>An article explaining how to train one's own acoustic model in CMUSphinx speech recognition project</p></details>
 
 <details><summary>2023-01-10 <a href="https://academic.jyunko.cn/2023/01/10/ASR-Detection-System-of-Sensitive-Words-Based-on-MFSC-Algorithm">ASR Detection System of Sensitive Words Based on MFSC Algorithm</a></summary><p>基于MFSC算法的ASR检测敏感词系统， 此页面为未来paper与软著的提交页面。</p></details>
-
-<details><summary>2023-01-10 <a href="https://academic.jyunko.cn/2023/01/10/GPT-3-vs-Rasa-chatbots">GPT-3 vs. Rasa chatbots</a></summary><p>Richard Trevithick’s locomotive — the GPT-3 of the early 19th century (Shutterstock.com)</p></details>
 <!-- blog ends -->
 
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
