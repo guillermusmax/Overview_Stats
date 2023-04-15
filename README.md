@@ -115,6 +115,8 @@ Sunday                   1163 commits        ████░░░░░░░�
 <!-- recent_releases starts -->
 [iamai v3.14.4.post1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-9cd5b4766723a763b754) - Near Future
 
+[OlivaBiliLive release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - Near Future
+
 [unpredictableFate v1.0.0 🎉](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v1.0.0) - 2023-04-15
 
 [Flexirobo v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - 2023-04-11
@@ -124,8 +126,6 @@ Sunday                   1163 commits        ████░░░░░░░�
 [AO3Search v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - 2023-04-06
 
 [Civilian-SealDice v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - 2023-04-03
-
-[OlivaBiliLive v3.14 🌈](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/v3.14) - 2023-03-09
 
 [retrofor.github.io v2023.0.7](https://github.com/retrofor/retrofor.github.io/releases/tag/v2023.0.7) - 2023-02-28
 <!-- recent_releases ends -->

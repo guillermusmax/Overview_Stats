@@ -1,10 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->173<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->179<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.14.4.post1 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-9cd5b4766723a763b754) - ([15 releases total](https://github.com/retrofor/iamai/releases))  - Near Future
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
+* **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - ([13 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
+<br />可插件化管理的B站直播间机器人
 * **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v1.0.0 🎉](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v1.0.0)  - 2023-04-15
 <br />None
 * **[Flexirobo](https://github.com/retrofor/Flexirobo)**: [v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - ([2 releases total](https://github.com/retrofor/Flexirobo/releases))  - 2023-04-11
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->173<!-- releases_count ends --> releases a
 <br />None
 * **[Civilian-SealDice](https://github.com/HsiangNianian/Civilian-SealDice)**: [v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - ([3 releases total](https://github.com/HsiangNianian/Civilian-SealDice/releases))  - 2023-04-03
 <br />My sealdice plugins
-* **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [v3.14 🌈](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/v3.14) - ([7 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - 2023-03-09
-<br />可插件化管理的B站直播间机器人
 * **[retrofor.github.io](https://github.com/retrofor/retrofor.github.io)**: [v2023.0.7](https://github.com/retrofor/retrofor.github.io/releases/tag/v2023.0.7) - ([90 releases total](https://github.com/retrofor/retrofor.github.io/releases))  - 2023-02-28
 <br />None
 * **[OlivaGithub](https://github.com/HsiangNianian/OlivaGithub)**: [v3.1415 🐱‍👤](https://github.com/HsiangNianian/OlivaGithub/releases/tag/v3.1415) - ([2 releases total](https://github.com/HsiangNianian/OlivaGithub/releases))  - 2023-02-28
