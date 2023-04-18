@@ -5,7 +5,7 @@ Listing <!-- releases_count starts -->185<!-- releases_count ends --> releases a
 <!-- recent_releases starts -->
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - ([19 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
 <br />可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
-* **[iamai](https://github.com/retrofor/iamai)**: [v3.14.4.post1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.14.4.post1) - ([15 releases total](https://github.com/retrofor/iamai/releases))  - 2023-04-18
+* **[iamai](https://github.com/retrofor/iamai)**: [v3.14.5 🌈](https://github.com/retrofor/iamai/releases/tag/v3.14.5) - ([15 releases total](https://github.com/retrofor/iamai/releases))  - 2023-04-18
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
 * **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v1.0.0 🎉](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v1.0.0)  - 2023-04-15
 <br />None
