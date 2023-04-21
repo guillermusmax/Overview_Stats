@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->191<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->192<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - ([19 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
 <br />可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
-* **[BlackJack](https://github.com/HsiangNianian/BlackJack)**: [v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-fad7bc57543df7be53a5) - ([4 releases total](https://github.com/HsiangNianian/BlackJack/releases))  - Near Future
+* **[BlackJack](https://github.com/HsiangNianian/BlackJack)**: [v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-656fd313d2eff85b8cd7) - ([5 releases total](https://github.com/HsiangNianian/BlackJack/releases))  - Near Future
 <br />基于OlivOS与OlivaDiceCore的交互式21点小游戏
 * **[HydroRoll](https://github.com/retrofor/HydroRoll)**: [v0.1.0 ❄](https://github.com/retrofor/HydroRoll/releases/tag/v0.1.0)  - 2023-04-18
 <br />None
