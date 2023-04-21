@@ -114,7 +114,7 @@ Sunday                   1097 commits        ████░░░░░░░�
 <!-- recent_releases starts -->
 [OlivaBiliLive release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - Near Future
 
-[BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-656fd313d2eff85b8cd7) - Near Future
+[BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-f19aa1106e15bd065c16) - Near Future
 
 [HydroRoll v0.1.0 ❄](https://github.com/retrofor/HydroRoll/releases/tag/v0.1.0) - 2023-04-18
 
