@@ -90,7 +90,6 @@ Sunday                   1097 commits        ████░░░░░░░�
   ✨Catch me night only, especially between the Sun. evening to the Mon. early morning. 
 </td><td valign="top" width="33%">
 <p align="right">
-<img width="900" align="center" src="https://ghproxy.com/https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 
   ***
   
@@ -98,8 +97,8 @@ Sunday                   1097 commits        ████░░░░░░░�
   
   ***
   
-<img width="1000" align="center" src="https://ghproxy.com/https://github.com/HsiangNianian/HsiangNianian/raw/main/assets/bar_graph.png">
-    
+<img width="900" align="center" src="https://ghproxy.com/https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+
   ***
   
   > Human Vs. AI (1:0) :s
