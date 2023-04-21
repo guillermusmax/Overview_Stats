@@ -6,7 +6,7 @@ Listing <!-- releases_count starts -->191<!-- releases_count ends --> releases a
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - ([19 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
 <br />可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
 * **[BlackJack](https://github.com/HsiangNianian/BlackJack)**: [v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-656fd313d2eff85b8cd7) - ([4 releases total](https://github.com/HsiangNianian/BlackJack/releases))  - Near Future
-<br />基于OlivOS与OlivaDiceCore的交互式21点小游戏
+<br />A simple interactive 21-point game based on OlivOS and OlivaDiceCore | 基于OlivOS与OlivaDiceCore的交互式21点小游戏
 * **[HydroRoll](https://github.com/retrofor/HydroRoll)**: [v0.1.0 ❄](https://github.com/retrofor/HydroRoll/releases/tag/v0.1.0)  - 2023-04-18
 <br />None
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.14.5.post1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.14.5.post1) - ([16 releases total](https://github.com/retrofor/iamai/releases))  - 2023-04-18
