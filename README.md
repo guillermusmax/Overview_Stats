@@ -116,7 +116,7 @@ Sunday                   1122 commits        ████░░░░░░░�
 
 [BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-f19aa1106e15bd065c16) - Near Future
 
-[HydroRoll v0.1.0 ❄](https://github.com/retrofor/HydroRoll/releases/tag/v0.1.0) - 2023-04-27
+[HydroRoll v0.1.3 🎈](https://github.com/retrofor/HydroRoll/releases/tag/v0.1.3) - 2023-04-27
 
 [iamai v3.14.5.post1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.14.5.post1) - 2023-04-18
 
