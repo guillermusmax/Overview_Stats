@@ -97,7 +97,7 @@ Sunday                   1143 commits        ████░░░░░░░�
   
   ***
   
-<img width="900" align="center" src="https://ghproxy.com/https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+<img width="900" align="center" src="profile-3d-contrib/profile-night-rainbow.svg">
 
   ***
   
