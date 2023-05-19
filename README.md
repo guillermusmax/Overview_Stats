@@ -114,7 +114,7 @@ Sunday                   1166 commits        ████░░░░░░░�
 <!-- recent_releases starts -->
 [OlivaBiliLive release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - Near Future
 
-[BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-d4e8a25eaafe99f95aae) - Near Future
+[BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - Near Future
 
 [iamai v3.14.5.post1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.14.5.post1) - 2023-04-18
 
