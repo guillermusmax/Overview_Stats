@@ -1,12 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->197<!-- releases_count ends --> releases across <!-- project_count starts -->29<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->198<!-- releases_count ends --> releases across <!-- project_count starts -->29<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - ([19 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
 <br />可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
 * **[BlackJack](https://github.com/HsiangNianian/BlackJack)**: [v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - ([11 releases total](https://github.com/HsiangNianian/BlackJack/releases))  - Near Future
 <br />A simple interactive 21-point game based on OlivOS and OlivaDiceCore | 基于OlivOS与OlivaDiceCore的交互式21点小游戏
+* **[flarum-post-formatter](https://github.com/HsiangNianian/flarum-post-formatter)**: [v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - ([5 releases total](https://github.com/HsiangNianian/flarum-post-formatter/releases))  - 2023-05-19
+<br />Flarum plugin that allows posts to be formatted and rendered with a subset of BBCode and HTML
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.14.5.post1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.14.5.post1) - ([16 releases total](https://github.com/retrofor/iamai/releases))  - 2023-04-18
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
 * **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v1.0.0 🎉](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v1.0.0)  - 2023-04-15
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->197<!-- releases_count ends --> releases a
 <br />None
 * **[OlivaGithub](https://github.com/HsiangNianian/OlivaGithub)**: [v3.1415 🐱‍👤](https://github.com/HsiangNianian/OlivaGithub/releases/tag/v3.1415) - ([2 releases total](https://github.com/HsiangNianian/OlivaGithub/releases))  - 2023-02-28
 <br />基于OlivOS框架的利用webhook实时监控你的Github仓库的插件
-* **[flarum-post-formatter](https://github.com/HsiangNianian/flarum-post-formatter)**: [v0.0.4✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.4) - ([4 releases total](https://github.com/HsiangNianian/flarum-post-formatter/releases))  - 2023-02-17
-<br />Flarum plugin that allows posts to be formatted and rendered with a subset of BBCode and HTML
 * **[retro_pkg_test](https://github.com/retrofor/retro_pkg_test)**: [v3.1415 🌈](https://github.com/retrofor/retro_pkg_test/releases/tag/v3.1415) - ([5 releases total](https://github.com/retrofor/retro_pkg_test/releases))  - 2023-02-01
 <br />None
 * **[Oliva_Plugin_GPT](https://github.com/retrofor/Oliva_Plugin_GPT)**: [release-v0.1.0](https://github.com/retrofor/Oliva_Plugin_GPT/releases/tag/v0.1.0)  - 2023-01-24

@@ -116,6 +116,8 @@ Sunday                   1166 commits        ████░░░░░░░�
 
 [BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - Near Future
 
+[flarum-post-formatter v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - 2023-05-19
+
 [iamai v3.14.5.post1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.14.5.post1) - 2023-04-18
 
 [unpredictableFate v1.0.0 🎉](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v1.0.0) - 2023-04-15
@@ -125,8 +127,6 @@ Sunday                   1166 commits        ████░░░░░░░�
 [Crossplatform-pack v0.0.1✨](https://github.com/HsiangNianian/Crossplatform-pack/releases/tag/v0.0.1) - 2023-04-10
 
 [AO3Search v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - 2023-04-06
-
-[Civilian-SealDice v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - 2023-04-03
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
