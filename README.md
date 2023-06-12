@@ -134,7 +134,7 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 ### 📰Academic site
 <!-- blog starts -->
-<details><summary>2023-06-12 <a href="https://academic.jyunko.cn/2023/06/12/Reading-Attention-Is-All-You-Need">读《Attention Is All You Need》</a></summary><p>你好👋</p></details>
+<details><summary>2023-06-12 <a href="https://academic.jyunko.cn/2023/06/12/Reading-Attention-Is-All-You-Need">读《Attention Is All You Need》</a></summary><p>Part 1</p></details>
 
 <details><summary>2023-05-03 <a href="https://academic.jyunko.cn/2023/05/03/HccetEMA">How chords colors enhance the Expressiveness of Music Analyzing</a></summary><p>Music is an art form that conveys emotions through sound, melody, harmony, and other elements.In music composition, chords are an important musical element and a tool for expressing emotions and intentions. This article will explore how to better use chords to enhance the expressiveness of music from both acoustic and audience perspectives.</p></details>
 
