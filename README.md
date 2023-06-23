@@ -170,7 +170,7 @@ _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
 
 <details close>
   <summary>show/close my status</summary>
-  <img src="./github-metrics.svg">
+  <img src="./github-metrics-small.svg">
 </details>
 
 <p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
