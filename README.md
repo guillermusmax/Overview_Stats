@@ -168,6 +168,11 @@ _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
 </td></tr></table>
 
+<details close>
+  <summary>show/close my status</summary>
+  <img src="./github-metrics.svg">
+</details>
+
 <p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
 
   
