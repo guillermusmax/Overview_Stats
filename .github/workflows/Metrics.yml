@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GHTOKEN }}
+          token: ${{ secrets.TOKEN }}
           
           repositories_affiliations: collaborator
           config_timezone: Asia/Shanghai
@@ -85,5 +85,5 @@ jobs:
           plugin_traffic: yes
           
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           
