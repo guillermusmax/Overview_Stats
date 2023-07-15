@@ -1,13 +1,13 @@
 # Released projects
 
-Listing <!-- releases_count starts -->199<!-- releases_count ends --> releases across <!-- project_count starts -->29<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->200<!-- releases_count ends --> releases across <!-- project_count starts -->29<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - ([19 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
 <br />可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
 * **[BlackJack](https://github.com/HsiangNianian/BlackJack)**: [v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - ([11 releases total](https://github.com/HsiangNianian/BlackJack/releases))  - Near Future
 <br />A simple interactive 21-point game based on OlivOS and OlivaDiceCore | 基于OlivOS与OlivaDiceCore的交互式21点小游戏
-* **[iamai](https://github.com/retrofor/iamai)**: [v3.2](https://github.com/retrofor/iamai/releases/tag/v3.2) - ([17 releases total](https://github.com/retrofor/iamai/releases))  - 2023-07-14
+* **[iamai](https://github.com/retrofor/iamai)**: [v3.2.1](https://github.com/retrofor/iamai/releases/tag/v3.2.1) - ([18 releases total](https://github.com/retrofor/iamai/releases))  - 2023-07-15
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
 * **[flarum-post-formatter](https://github.com/HsiangNianian/flarum-post-formatter)**: [v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - ([5 releases total](https://github.com/HsiangNianian/flarum-post-formatter/releases))  - 2023-05-19
 <br />Flarum plugin that allows posts to be formatted and rendered with a subset of BBCode and HTML
