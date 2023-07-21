@@ -112,11 +112,11 @@ Sunday                   1931 commits        ████░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
+[iamai v3.2.2](https://github.com/retrofor/iamai/releases/tag/untagged-f55bda202f313afbe8b3) - Near Future
+
 [OlivaBiliLive release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - Near Future
 
 [BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - Near Future
-
-[iamai v3.2.1](https://github.com/retrofor/iamai/releases/tag/v3.2.1) - 2023-07-15
 
 [flarum-post-formatter v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - 2023-05-19
 
