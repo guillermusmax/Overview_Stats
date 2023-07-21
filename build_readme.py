@@ -15,13 +15,11 @@ TOKEN = os.environ.get("TOKEN", "")
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
-        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
-        re.DOTALL,
+        f"<!\-\- {marker} starts \-\->.*<!\-\- {marker} ends \-\->", re.DOTALL
     )
     if not inline:
-        chunk = "\n{}\n".format(chunk)
-    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(
-        marker, chunk, marker)
+        chunk = f"\n{chunk}\n"
+    chunk = f"<!-- {marker} starts -->{chunk}<!-- {marker} ends -->"
     return r.sub(chunk, content)
 
 
@@ -51,7 +49,8 @@ organization_graphql = """
 
 
 def make_query(after_cursor=None, include_organization=False):
-    return """
+    return (
+        """
 query {
   ORGANIZATION
   viewer {
@@ -77,9 +76,10 @@ query {
   }
 }
 """.replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+            "AFTER", f'"{after_cursor}"' if after_cursor else "null"
+        )
     ).replace(
-        "ORGANIZATION", organization_graphql if include_organization else "",
+        "ORGANIZATION", organization_graphql if include_organization else ""
     )
 
 
@@ -95,7 +95,7 @@ def fetch_releases(oauth_token):
     while has_next_page:
         data = client.execute(
             query=make_query(after_cursor, include_organization=first),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
+            headers={"Authorization": f"Bearer {oauth_token}"},
         )
         first = False
         print()
@@ -208,15 +208,15 @@ if __name__ == "__main__":
     project_releases_md = "\n".join(
         [
             (
-                "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md} - {published_day}\n"
-                "<br />{description}"
-            ).format(
-                total_releases_md="- ([{} releases total]({}/releases)) ".format(
-                    release["total_releases"], release["repo_url"]
+                (
+                    "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md} - {published_day}\n"
+                    "<br />{description}"
+                ).format(
+                    total_releases_md=f'- ([{release["total_releases"]} releases total]({release["repo_url"]}/releases)) '
+                    if release["total_releases"] > 1
+                    else "",
+                    **release,
                 )
-                if release["total_releases"] > 1
-                else "",
-                **release
             )
             for release in releases
         ]
