@@ -34,7 +34,7 @@ I don't really like most things in this world, but I write [some tiny songs](htt
 
 > _我正在编写自己的机器学习[框架](https://github.com/retrofor/) ，如果你对此感兴趣可以给我发送[邮件](mailto:admin@jyunko.cn)。_   <img align="center" width="100" src="https://iamai.retrofor.space/icons/logo.png"> +  <img align="center" width="60" src="https://iamai.retrofor.space/logo.png"> = <img align="center" width="100" src="https://iamai.retrofor.space/icons/retro_plus.png">
 
-I am contributing to the [retrofor](https://github.com/retrofor/)  and associated projects. If you are interested abou it, just [via me an email](mailto:admin@jyunko.cn). 
+I am contributing to the [retrofor](https://github.com/retrofor/)  and associated projects. If you are interested abou it, just [via me an email](mailto:i@jyunko.cn). 
 </td><td valign="top" width="33%">
 <p align="right">
 
