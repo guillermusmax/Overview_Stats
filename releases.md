@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->201<!-- releases_count ends --> releases across <!-- project_count starts -->29<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->202<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[OlivaXXX](https://github.com/HsiangNianian/OlivaXXX)**: [v3.1](https://github.com/HsiangNianian/OlivaXXX/releases/tag/untagged-bb5cc9321f51c59ca7c1)  - Near Future
+<br />A template.
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - ([19 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
 <br />可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
 * **[BlackJack](https://github.com/HsiangNianian/BlackJack)**: [v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - ([11 releases total](https://github.com/HsiangNianian/BlackJack/releases))  - Near Future
