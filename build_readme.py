@@ -1,10 +1,11 @@
-from python_graphql_client import GraphqlClient
-import feedparser
-import httpx
 import json
+import os
 import pathlib
 import re
-import os
+
+import feedparser
+import httpx
+from python_graphql_client import GraphqlClient
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -78,9 +79,7 @@ query {
 """.replace(
             "AFTER", f'"{after_cursor}"' if after_cursor else "null"
         )
-    ).replace(
-        "ORGANIZATION", organization_graphql if include_organization else ""
-    )
+    ).replace("ORGANIZATION", organization_graphql if include_organization else "")
 
 
 def fetch_releases(oauth_token):
@@ -114,9 +113,13 @@ def fetch_releases(oauth_token):
                             "repo": repo["name"],
                             "repo_url": repo["url"],
                             "description": repo["description"],
-                            "release": repo["releases"]["nodes"][0]["name"].replace(repo["name"], "").strip(),
+                            "release": repo["releases"]["nodes"][0]["name"]
+                            .replace(repo["name"], "")
+                            .strip(),
                             "published_at": repo["releases"]["nodes"][0]["publishedAt"],
-                            "published_day": repo["releases"]["nodes"][0]["publishedAt"].split("T")[0],
+                            "published_day": repo["releases"]["nodes"][0][
+                                "publishedAt"
+                            ].split("T")[0],
                             "url": repo["releases"]["nodes"][0]["url"],
                             "total_releases": repo["releases"]["totalCount"],
                         }
@@ -127,7 +130,9 @@ def fetch_releases(oauth_token):
                             "repo": repo["name"],
                             "repo_url": repo["url"],
                             "description": repo["description"],
-                            "release": repo["releases"]["nodes"][0]["name"].replace(repo["name"], "").strip(),
+                            "release": repo["releases"]["nodes"][0]["name"]
+                            .replace(repo["name"], "")
+                            .strip(),
                             "published_at": "Near Future",
                             "published_day": "Near Future",
                             "url": repo["releases"]["nodes"][0]["url"],
@@ -151,14 +156,13 @@ def fetch_releases(oauth_token):
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse(
-        "https://academic.jyunko.cn/feed.xml")["entries"]
+    entries = feedparser.parse("https://academic.jyunko.cn/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
             "url": entry["id"],
             "published": entry["published"].split("T")[0],
-            "summary": entry["summary"]
+            "summary": entry["summary"],
         }
         for entry in entries
     ]
@@ -171,14 +175,14 @@ def fetch_fm_entries():
             "title": entry["title"],
             "url": entry["id"],
             "published": entry["published"].split("T")[0],
-            "categlory": entry["tags"][1]["term"]
+            "categlory": entry["tags"][1]["term"],
         }
         for entry in entries
     ]
 
+
 def fetch_diary_entries():
-    entries = feedparser.parse(
-        "https://diary.jyunko.cn/feed.xml")["entries"]
+    entries = feedparser.parse("https://diary.jyunko.cn/feed.xml")["entries"]
     print(entries)
     return [
         {
@@ -189,6 +193,7 @@ def fetch_diary_entries():
         }
         for entry in entries
     ]
+
 
 if __name__ == "__main__":
     readme = root / "README.md"
@@ -204,7 +209,7 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
-#     Write out full project-releases.md file
+    #     Write out full project-releases.md file
     project_releases_md = "\n".join(
         [
             (
@@ -236,24 +241,28 @@ if __name__ == "__main__":
     )
     project_releases.open("w").write(project_releases_content)
 
-#     tils = fetch_tils()
-#     tils_md = "\n\n".join(
-#         [
-#             "[{title}](https://til.simonwillison.net/{topic}/{slug}) - {created_at}".format(
-#                 title=til["title"],
-#                 topic=til["topic"],
-#                 slug=til["slug"],
-#                 created_at=til["created_utc"].split("T")[0],
-#             )
-#             for til in tils
-#         ]
-#     )
-#     rewritten = replace_chunk(rewritten, "tils", tils_md)
+    #     tils = fetch_tils()
+    #     tils_md = "\n\n".join(
+    #         [
+    #             "[{title}](https://til.simonwillison.net/{topic}/{slug}) - {created_at}".format(
+    #                 title=til["title"],
+    #                 topic=til["topic"],
+    #                 slug=til["slug"],
+    #                 created_at=til["created_utc"].split("T")[0],
+    #             )
+    #             for til in tils
+    #         ]
+    #     )
+    #     rewritten = replace_chunk(rewritten, "tils", tils_md)
     # blog
     entries = fetch_blog_entries()[:6]
     entries_md = "\n\n".join(
-        ["<details><summary>{published} <a href=\"{url}\">{title}</a></summary><p>{summary}</p></details>".format(
-            **entry) for entry in entries]
+        [
+            '<details><summary>{published} <a href="{url}">{title}</a></summary><p>{summary}</p></details>'.format(
+                **entry
+            )
+            for entry in entries
+        ]
     )
     print()
     print(entries_md)
@@ -262,8 +271,12 @@ if __name__ == "__main__":
     # fm
     fm_entries = fetch_fm_entries()[:6]
     fm_entries_md = "\n\n".join(
-        ["<details open=\"true\"><summary>{published} {categlory}</summary><li><a href=\"{url}\">{title}</a></li></details>".format(
-            **entry) for entry in fm_entries]
+        [
+            '<details open="true"><summary>{published} {categlory}</summary><li><a href="{url}">{title}</a></li></details>'.format(
+                **entry
+            )
+            for entry in fm_entries
+        ]
     )
     print()
     print(fm_entries_md)
@@ -272,8 +285,12 @@ if __name__ == "__main__":
     # diary
     diary_entries = fetch_diary_entries()[:5]
     diary_entries_md = "\n\n".join(
-        ["<details open=\"true\"><summary>{published}</summary><li><a href=\"{url}\">{title}</a></li></details>".format(
-            **entry) for entry in diary_entries]
+        [
+            '<details open="true"><summary>{published}</summary><li><a href="{url}">{title}</a></li></details>'.format(
+                **entry
+            )
+            for entry in diary_entries
+        ]
     )
     print()
     print(diary_entries_md)
