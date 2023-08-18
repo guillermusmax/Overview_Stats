@@ -138,7 +138,7 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 <details><summary>2023-05-03 <a href="https://academic.jyunko.cn/2023/05/03/HccetEMA">How chords colors enhance the Expressiveness of Music Analyzing</a></summary><p>Music is an art form that conveys emotions through sound, melody, harmony, and other elements.In music composition, chords are an important musical element and a tool for expressing emotions and intentions. This article will explore how to better use chords to enhance the expressiveness of music from both acoustic and audience perspectives.</p></details>
 
-<details><summary>2023-04-13 <a href="https://academic.jyunko.cn/2023/04/13/deep-learning-zh%20copy">深度学习心得体会</a></summary><p>深度学习是机器学习领域中的一种最先进的技术，它可以在处理复杂数据时取得非常出色的效果。与传统机器学习方法相比，深度学习能够更好地处理自然语言、语音识别、图像识别、物体识别等复杂的任务。深度学习采用了一些特殊的算法和网络结构，例如神经网络，使得机器可以从数据中进行自我学习，并且可以通过大量的数据训练来不断优化自身的性能。</p></details>
+<details><summary>2023-04-13 <a href="https://academic.jyunko.cn/2023/04/13/deep-learning-zh-copy.html">深度学习心得体会</a></summary><p>深度学习是机器学习领域中的一种最先进的技术，它可以在处理复杂数据时取得非常出色的效果。与传统机器学习方法相比，深度学习能够更好地处理自然语言、语音识别、图像识别、物体识别等复杂的任务。深度学习采用了一些特殊的算法和网络结构，例如神经网络，使得机器可以从数据中进行自我学习，并且可以通过大量的数据训练来不断优化自身的性能。</p></details>
 
 <details><summary>2023-04-04 <a href="https://academic.jyunko.cn/2023/04/04/April-Fours-Day">关于几位小丑四月四日利用漏洞恶意攻击我的账号一事</a></summary><p>涉事名单 A60、Bryan不可思议、Tarrailt、Akirami、Nyuan Zhang</p></details>
 
