@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->203<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->204<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[OlivaXXX](https://github.com/HsiangNianian/OlivaXXX)**: [v3.1](https://github.com/HsiangNianian/OlivaXXX/releases/tag/untagged-bb5cc9321f51c59ca7c1)  - Near Future
@@ -9,12 +9,12 @@ Listing <!-- releases_count starts -->203<!-- releases_count ends --> releases a
 <br />可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
 * **[BlackJack](https://github.com/HsiangNianian/BlackJack)**: [v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - ([11 releases total](https://github.com/HsiangNianian/BlackJack/releases))  - Near Future
 <br />A simple interactive 21-point game based on OlivOS and OlivaDiceCore | 基于OlivOS与OlivaDiceCore的交互式21点小游戏
+* **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v2.4.4](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v2.4.4) - ([2 releases total](https://github.com/HsiangNianian/unpredictableFate/releases))  - 2023-08-31
+<br />None
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.2.3](https://github.com/retrofor/iamai/releases/tag/v3.2.3) - ([19 releases total](https://github.com/retrofor/iamai/releases))  - 2023-07-29
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+机器学习框架
 * **[flarum-post-formatter](https://github.com/HsiangNianian/flarum-post-formatter)**: [v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - ([5 releases total](https://github.com/HsiangNianian/flarum-post-formatter/releases))  - 2023-05-19
 <br />Flarum plugin that allows posts to be formatted and rendered with a subset of BBCode and HTML
-* **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v1.0.0 🎉](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v1.0.0)  - 2023-04-15
-<br />None
 * **[Flexirobo](https://github.com/retrofor/Flexirobo)**: [v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - ([2 releases total](https://github.com/retrofor/Flexirobo/releases))  - 2023-04-11
 <br />None
 * **[Crossplatform-pack](https://github.com/HsiangNianian/Crossplatform-pack)**: [v0.0.1✨](https://github.com/HsiangNianian/Crossplatform-pack/releases/tag/v0.0.1)  - 2023-04-10
