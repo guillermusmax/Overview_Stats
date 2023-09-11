@@ -1,5 +1,3 @@
-
-
 <table style="border-color: transparent;" cellspacing=0 >
 <tr><td valign="center" width="60%">
 
@@ -171,8 +169,10 @@ _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
 <details close>
   <summary>show/close my status</summary>
   <img src="./github-metrics.svg">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HsiangNianian&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820">
+  
 </details>
 
 <p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
 
-  
+
