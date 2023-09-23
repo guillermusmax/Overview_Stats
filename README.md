@@ -19,7 +19,7 @@
 🐱‍🏍**Artificial Intelligence** 
 
 There’s going to be something more academic and something that fascinates me. 
-I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/academic-jyunko)).
+I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/AICMUniversity)).
 
 🐱‍💻**Music Theories**
 
