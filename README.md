@@ -1,19 +1,3 @@
-<table style="border-color: transparent;" cellspacing=0 >
-<tr><td valign="center" width="60%">
-
-<img width="30" align="left" src="https://th.bing.com/th/id/OIP.-pEpS0FvPC2OpvnNrRGrugAAAA?w=170&h=180&c=7&r=0&o=5&pid=1.7">**Blacklist developers and projects (黑名单)**
-  
-> 我的开发者黑名单，谨以这个告示板告诉同类圈子内的开发者提防此类读书甚少不太懂事的人。
-  
-  * [Akirami](https://github.com/A-Kirami)、[Nyuan Zhang](https://github.com/blueglassblock)、[A60](https://github.com/djkcyl)、[Bryan不可思议](https://github.com/ProgramRipper)、[Tarrailt](https://github.com/RF-Tar-Railt)
-  原因: 2023年4月4日对测试环境的*恶意攻击*[^1]行为，事后竟也不会感到丝毫羞耻😅。
-  
-  [^1]: https://academic.jyunko.cn/2023/04/04/April-Fours-Day
-  
-</td></tr></table>
-
-<br>
-
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
   
 🐱‍🏍**Artificial Intelligence** 
