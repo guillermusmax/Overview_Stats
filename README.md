@@ -39,7 +39,7 @@ _you can join [us](https://github.com/Diaries-Store)_
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="10%">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2027%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
 
 **I'm a Night 🦉** 
 
