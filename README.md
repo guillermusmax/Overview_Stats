@@ -95,7 +95,7 @@ Sunday                   2122 commits        ████░░░░░░░�
 
 [BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - Near Future
 
-[unpredictableFate v2.4.4](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v2.4.4) - 2023-08-31
+[unpredictableFate v3.0.0](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.0) - 2023-10-19
 
 [iamai v3.2.3](https://github.com/retrofor/iamai/releases/tag/v3.2.3) - 2023-07-29
 
