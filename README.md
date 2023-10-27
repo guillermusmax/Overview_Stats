@@ -7,7 +7,7 @@ I have always had an absurd idea-composing music in a programming language and p
 
 🐱‍💻**Music Theories**
 
-I don't really like most things in this world, but I write [some tiny songs](https://fm.jyunko.cn), and I wanna to be [a poet](https://www.zgshige.com/c/2022-07-25/22158479.shtml)... By the way, I like snowflakes ❄️. 
+I don't really like most things in this world, but I write [some tiny songs](https://fm.jyunko.cn), and I wanna to be [a poet](https://www.zgshige.com/c/2022-07-25/22158479.shtml)... Btw, ❤ snowflakes ❄️. 
   
 🐱‍👤**Currently**  
 
