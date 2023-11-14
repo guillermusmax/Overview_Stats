@@ -89,13 +89,13 @@ Sunday                   2122 commits        ████░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v3.2.7](https://github.com/retrofor/iamai/releases/tag/untagged-1527ff57448a123163b2) - Near Future
-
 [OlivaXXX v3.1](https://github.com/HsiangNianian/OlivaXXX/releases/tag/untagged-bb5cc9321f51c59ca7c1) - Near Future
 
 [OlivaBiliLive release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - Near Future
 
 [BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - Near Future
+
+[iamai v3.2.7](https://github.com/retrofor/iamai/releases/tag/v3.2.7) - 2023-11-14
 
 [unpredictableFate v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - 2023-10-19
 
