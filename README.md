@@ -11,9 +11,12 @@ I don't really like most things in this world, but I write [some tiny songs](htt
   
 🐱‍👤**Currently**  
 
-<img align="center" width="100" src="https://iamai.retrofor.space/icons/logo.png"> +  <img align="center" width="60" src="https://iamai.retrofor.space/logo.png"> = <img align="center" width="100" src="https://iamai.retrofor.space/icons/retro_plus.png">
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| <a href="https://grps.hydroroll.team/dev/"><b><i>Infini</i></b></a> | <a href="https://logshader.hydroroll.team/"><b><i>logshader</i></b></a> | <a href="https://github.com/HydroRoll-Team/DiceParser/"><b><i>OneRoll</i></b></a> | <a href="https://github.com/HydroRoll-Team/psi/"><b><i>Psi</i></b></a> | <a href="https://hydroroll.team"><img align="center" width="60" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HydroRoll-Team/HydroRoll/main/site/src/assets/image/logo.png"></a> |
 
-I am contributing to the [retrofor](https://github.com/retrofor/)  and associated projects. If you are interested abou it, just [via me an email](mailto:i@jyunko.cn). 
+I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  and associated projects. If you are interested abou it, just [via me a work email](mailto:leader@hydroroll.team). 
+
 </td><td valign="top" width="33%">
 <p align="right">
 
