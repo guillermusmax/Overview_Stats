@@ -13,7 +13,7 @@ I don't really like most things in this world, but I write [some tiny songs](htt
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| <a href="https://grps.hydroroll.team/dev/"><b><i>Infini</i></b></a> | <a href="https://logshader.hydroroll.team/"><b><i>logshader</i></b></a> | <a href="https://github.com/HydroRoll-Team/DiceParser/"><b><i>OneRoll</i></b></a> | <a href="https://github.com/HydroRoll-Team/psi/"><b><i>Psi</i></b></a> | <a href="https://hydroroll.team"><img align="center" width="60" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HydroRoll-Team/HydroRoll/main/site/src/assets/image/logo.png"></a> |
+| <a aria-label="PYTHON version" href="https://pypi.org/project/hydroroll" target="blank"><img src="https://img.shields.io/pypi/v/hydroroll?style=flat&label=HydroRoll&color=blue" alt="pypi"></a> | <a aria-label="PYTHON version" href="https://pypi.org/project/oneroll" target="blank"><img src="https://img.shields.io/pypi/v/oneroll?style=flat&label=OneRoll&color=purple" alt="pypi"></a> | <a aria-label="PYTHON version" href="https://pypi.org/project/infini" target="blank"><img src="https://img.shields.io/pypi/v/infini?style=flat&label=INFINI&color=green" alt="pypi"></a> | <a href="https://github.com/HydroRoll-Team/psi/"><b><i>Psi</i></b></a> | <a href="https://hydroroll.team"><img align="center" width="60" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HydroRoll-Team/HydroRoll/main/site/src/assets/image/logo.png"></a> |
 
 I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  and associated projects. If you are interested abou it, just [via me a work email](mailto:leader@hydroroll.team). 
 
