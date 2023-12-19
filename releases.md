@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->193<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->182<!-- releases_count ends --> releases across <!-- project_count starts -->27<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[BlackJack](https://github.com/HsiangNianian/BlackJack)**: [v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - ([11 releases total](https://github.com/HsiangNianian/BlackJack/releases))  - Near Future
-<br />A simple interactive 21-point game based on OlivOS and OlivaDiceCore | 基于OlivOS与OlivaDiceCore的交互式21点小游戏
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.3.0](https://github.com/retrofor/iamai/releases/tag/v3.3.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2023-11-26
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+机器学习框架
 * **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - ([5 releases total](https://github.com/HsiangNianian/unpredictableFate/releases))  - 2023-10-19
 <br />None
 * **[flarum-post-formatter](https://github.com/HsiangNianian/flarum-post-formatter)**: [v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - ([5 releases total](https://github.com/HsiangNianian/flarum-post-formatter/releases))  - 2023-05-19
 <br />Flarum plugin that allows posts to be formatted and rendered with a subset of BBCode and HTML
+* **[BlackJack](https://github.com/HsiangNianian/BlackJack)**: [v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/v0.1.0)  - 2023-04-21
+<br />A simple interactive 21-point game based on OlivOS and OlivaDiceCore | 基于OlivOS与OlivaDiceCore的交互式21点小游戏
 * **[Flexirobo](https://github.com/retrofor/Flexirobo)**: [v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - ([2 releases total](https://github.com/retrofor/Flexirobo/releases))  - 2023-04-11
 <br />None
 * **[Crossplatform-pack](https://github.com/HsiangNianian/Crossplatform-pack)**: [v0.0.1✨](https://github.com/HsiangNianian/Crossplatform-pack/releases/tag/v0.0.1)  - 2023-04-10
@@ -31,8 +31,6 @@ Listing <!-- releases_count starts -->193<!-- releases_count ends --> releases a
 <br />简单的推送集合，基于OlivOS
 * **[rssSub](https://github.com/HsiangNianian/rssSub)**: [release-1.1.0](https://github.com/HsiangNianian/rssSub/releases/tag/release-1.1.0) - ([9 releases total](https://github.com/HsiangNianian/rssSub/releases))  - 2023-01-10
 <br />为Dice!编写的插件化管理的rss订阅mod
-* **[ssJSKFJDJ](https://github.com/HsiangNianian/ssJSKFJDJ)**: [20230107 更新](https://github.com/HsiangNianian/ssJSKFJDJ/releases/tag/20230107)  - 2023-01-07
-<br />None
 * **[GroupValidater](https://github.com/HsiangNianian/GroupValidater)**: [v0.0.2](https://github.com/HsiangNianian/GroupValidater/releases/tag/v0.0.2) - ([7 releases total](https://github.com/HsiangNianian/GroupValidater/releases))  - 2022-12-26
 <br />简单的基于OlivOS框架的入群验证码插件
 * **[AImage](https://github.com/HsiangNianian/AImage)**: [v1.2.3](https://github.com/HsiangNianian/AImage/releases/tag/v1.2.3) - ([6 releases total](https://github.com/HsiangNianian/AImage/releases))  - 2022-12-22

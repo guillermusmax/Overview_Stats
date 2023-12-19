@@ -92,13 +92,13 @@ Sunday                   2122 commits        ████░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - Near Future
-
 [iamai v3.3.0](https://github.com/retrofor/iamai/releases/tag/v3.3.0) - 2023-11-26
 
 [unpredictableFate v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - 2023-10-19
 
 [flarum-post-formatter v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - 2023-05-19
+
+[BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/v0.1.0) - 2023-04-21
 
 [Flexirobo v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - 2023-04-11
 
