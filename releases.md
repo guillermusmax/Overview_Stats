@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->176<!-- releases_count ends --> releases across <!-- project_count starts -->26<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->175<!-- releases_count ends --> releases across <!-- project_count starts -->25<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.3.0](https://github.com/retrofor/iamai/releases/tag/v3.3.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2023-11-26
@@ -52,7 +52,5 @@ Listing <!-- releases_count starts -->176<!-- releases_count ends --> releases a
 * **[YKSConverter](https://github.com/HsiangNianian/YKSConverter)**: [test1](https://github.com/HsiangNianian/YKSConverter/releases/tag/test1)  - 2022-10-05
 <br />YKSConverter is converting Mabinogi MML to MIDI written C++.
 * **[mml2midi](https://github.com/HsiangNianian/mml2midi)**: [v1](https://github.com/HsiangNianian/mml2midi/releases/tag/1)  - 2022-10-05
-<br />None
-* **[lua-dice-plugin-and-mod](https://github.com/HsiangNianian/lua-dice-plugin-and-mod)**: [#2](https://github.com/HsiangNianian/lua-dice-plugin-and-mod/releases/tag/2022)  - 2022-08-02
 <br />None
 <!-- recent_releases ends -->
