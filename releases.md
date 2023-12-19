@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->175<!-- releases_count ends --> releases across <!-- project_count starts -->25<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->173<!-- releases_count ends --> releases across <!-- project_count starts -->23<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.3.0](https://github.com/retrofor/iamai/releases/tag/v3.3.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2023-11-26
@@ -47,10 +47,6 @@ Listing <!-- releases_count starts -->175<!-- releases_count ends --> releases a
 <br />基于 ZeroBot 的 OneBot 插件
 * **[ASR](https://github.com/HsiangNianian/ASR)**: [zh-CN](https://github.com/HsiangNianian/ASR/releases/tag/zh-CN)  - 2022-11-10
 <br />Speech recognizes sensitive words
-* **[mod-repo](https://github.com/HsiangNianian/mod-repo)**: [](https://github.com/HsiangNianian/mod-repo/releases/tag/monster-contract)  - 2022-10-06
-<br />None
 * **[YKSConverter](https://github.com/HsiangNianian/YKSConverter)**: [test1](https://github.com/HsiangNianian/YKSConverter/releases/tag/test1)  - 2022-10-05
 <br />YKSConverter is converting Mabinogi MML to MIDI written C++.
-* **[mml2midi](https://github.com/HsiangNianian/mml2midi)**: [v1](https://github.com/HsiangNianian/mml2midi/releases/tag/1)  - 2022-10-05
-<br />None
 <!-- recent_releases ends -->
