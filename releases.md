@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->173<!-- releases_count ends --> releases across <!-- project_count starts -->23<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->169<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.3.0](https://github.com/retrofor/iamai/releases/tag/v3.3.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2023-11-26
@@ -43,10 +43,6 @@ Listing <!-- releases_count starts -->173<!-- releases_count ends --> releases a
 <br />None
 * **[Dice](https://github.com/retrofor/Dice)**: [v1.0.0](https://github.com/retrofor/Dice/releases/tag/v1.0.0)  - 2022-11-30
 <br />QQ Dice Robot For TRPG QQ跑团掷骰机器人
-* **[ZeroBot-Plugin](https://github.com/HsiangNianian/ZeroBot-Plugin)**: [v2.0.1](https://github.com/HsiangNianian/ZeroBot-Plugin/releases/tag/v2.0.1) - ([3 releases total](https://github.com/HsiangNianian/ZeroBot-Plugin/releases))  - 2022-11-18
-<br />基于 ZeroBot 的 OneBot 插件
 * **[ASR](https://github.com/HsiangNianian/ASR)**: [zh-CN](https://github.com/HsiangNianian/ASR/releases/tag/zh-CN)  - 2022-11-10
 <br />Speech recognizes sensitive words
-* **[YKSConverter](https://github.com/HsiangNianian/YKSConverter)**: [test1](https://github.com/HsiangNianian/YKSConverter/releases/tag/test1)  - 2022-10-05
-<br />YKSConverter is converting Mabinogi MML to MIDI written C++.
 <!-- recent_releases ends -->
