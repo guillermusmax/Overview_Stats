@@ -41,7 +41,7 @@ Listing <!-- releases_count starts -->182<!-- releases_count ends --> releases a
 <br />一个简单的为Dice!编写的词典匹配回复mod
 * **[flagLoopTest](https://github.com/HsiangNianian/flagLoopTest)**: [v1.0.0](https://github.com/HsiangNianian/flagLoopTest/releases/tag/v1.0.0)  - 2022-12-07
 <br />None
-* **[Dice](https://github.com/HsiangNianian/Dice)**: [v2.6.5rc](https://github.com/HsiangNianian/Dice/releases/tag/v2.6.5rc)  - 2022-11-30
+* **[Dice](https://github.com/retrofor/Dice)**: [v1.0.0](https://github.com/retrofor/Dice/releases/tag/v1.0.0)  - 2022-11-30
 <br />QQ Dice Robot For TRPG QQ跑团掷骰机器人
 * **[ZeroBot-Plugin](https://github.com/HsiangNianian/ZeroBot-Plugin)**: [v2.0.1](https://github.com/HsiangNianian/ZeroBot-Plugin/releases/tag/v2.0.1) - ([3 releases total](https://github.com/HsiangNianian/ZeroBot-Plugin/releases))  - 2022-11-18
 <br />基于 ZeroBot 的 OneBot 插件
