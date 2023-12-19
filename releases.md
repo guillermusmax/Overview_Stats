@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->182<!-- releases_count ends --> releases across <!-- project_count starts -->27<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->176<!-- releases_count ends --> releases across <!-- project_count starts -->26<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.3.0](https://github.com/retrofor/iamai/releases/tag/v3.3.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2023-11-26
@@ -31,7 +31,7 @@ Listing <!-- releases_count starts -->182<!-- releases_count ends --> releases a
 <br />简单的推送集合，基于OlivOS
 * **[rssSub](https://github.com/HsiangNianian/rssSub)**: [release-1.1.0](https://github.com/HsiangNianian/rssSub/releases/tag/release-1.1.0) - ([9 releases total](https://github.com/HsiangNianian/rssSub/releases))  - 2023-01-10
 <br />为Dice!编写的插件化管理的rss订阅mod
-* **[GroupValidater](https://github.com/HsiangNianian/GroupValidater)**: [v0.0.2](https://github.com/HsiangNianian/GroupValidater/releases/tag/v0.0.2) - ([7 releases total](https://github.com/HsiangNianian/GroupValidater/releases))  - 2022-12-26
+* **[GroupValidater](https://github.com/HsiangNianian/GroupValidater)**: [v0.0.2](https://github.com/HsiangNianian/GroupValidater/releases/tag/v0.0.2) - ([2 releases total](https://github.com/HsiangNianian/GroupValidater/releases))  - 2022-12-26
 <br />简单的基于OlivOS框架的入群验证码插件
 * **[AImage](https://github.com/HsiangNianian/AImage)**: [v1.2.3](https://github.com/HsiangNianian/AImage/releases/tag/v1.2.3) - ([6 releases total](https://github.com/HsiangNianian/AImage/releases))  - 2022-12-22
 <br />None
@@ -52,8 +52,6 @@ Listing <!-- releases_count starts -->182<!-- releases_count ends --> releases a
 * **[YKSConverter](https://github.com/HsiangNianian/YKSConverter)**: [test1](https://github.com/HsiangNianian/YKSConverter/releases/tag/test1)  - 2022-10-05
 <br />YKSConverter is converting Mabinogi MML to MIDI written C++.
 * **[mml2midi](https://github.com/HsiangNianian/mml2midi)**: [v1](https://github.com/HsiangNianian/mml2midi/releases/tag/1)  - 2022-10-05
-<br />None
-* **[HsiangNianian.github.io](https://github.com/HsiangNianian/HsiangNianian.github.io)**: [Midido -v1.0.0](https://github.com/HsiangNianian/HsiangNianian.github.io/releases/tag/Midido-code)  - 2022-10-04
 <br />None
 * **[lua-dice-plugin-and-mod](https://github.com/HsiangNianian/lua-dice-plugin-and-mod)**: [#2](https://github.com/HsiangNianian/lua-dice-plugin-and-mod/releases/tag/2022)  - 2022-08-02
 <br />None
