@@ -92,10 +92,6 @@ Sunday                   2122 commits        ████░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[OlivaXXX v3.1](https://github.com/HsiangNianian/OlivaXXX/releases/tag/untagged-bb5cc9321f51c59ca7c1) - Near Future
-
-[OlivaBiliLive release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - Near Future
-
 [BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/untagged-7556df0546fbf278b86e) - Near Future
 
 [iamai v3.3.0](https://github.com/retrofor/iamai/releases/tag/v3.3.0) - 2023-11-26
@@ -107,6 +103,10 @@ Sunday                   2122 commits        ████░░░░░░░�
 [Flexirobo v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - 2023-04-11
 
 [Crossplatform-pack v0.0.1✨](https://github.com/HsiangNianian/Crossplatform-pack/releases/tag/v0.0.1) - 2023-04-10
+
+[AO3Search v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - 2023-04-06
+
+[Civilian-SealDice v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - 2023-04-03
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
