@@ -3,11 +3,11 @@
 🐱‍🏍**Artificial Intelligence** 
 
 There’s going to be something more academic and something that fascinates me. 
-I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/AICMUniversity)).
+I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/AICMUniversity/aria)).
 
 🐱‍💻**Music Theories**
 
-I don't really like most things in this world, but I write [some tiny songs](https://fm.jyunko.cn), and I wanna to be [a poet](https://www.zgshige.com/c/2022-07-25/22158479.shtml)... Btw, ❤ snowflakes ❄️. 
+I don't really like most things in this world, but I write [some tiny songs](https://fm.jyunko.cn) ❤ snowflakes ❄️. 
   
 🐱‍👤**Currently**  
 
