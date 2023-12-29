@@ -116,15 +116,15 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 <!-- blog starts -->
 <details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
 
-<details><summary>2023-06-12 <a href="https://academic.jyunko.cn/2023/06/12/Reading-Attention-Is-All-You-Need">读《Attention Is All You Need》</a></summary><p>The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder.</p></details>
+<details><summary>2023-06-12 <a href="https://academic.jyunko.cn/2023/06/12/Reading-Attention-Is-All-You-Need">Reading “Attention Is All You Need”</a></summary><p>The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder.</p></details>
 
 <details><summary>2023-05-03 <a href="https://academic.jyunko.cn/2023/05/03/HccetEMA">How chords colors enhance the Expressiveness of Music Analyzing</a></summary><p>Music is an art form that conveys emotions through sound, melody, harmony, and other elements.In music composition, chords are an important musical element and a tool for expressing emotions and intentions. This article will explore how to better use chords to enhance the expressiveness of music from both acoustic and audience perspectives.</p></details>
-
-<details><summary>2023-04-13 <a href="https://academic.jyunko.cn/2023/04/13/deep-learning-zh-copy">深度学习心得体会</a></summary><p>深度学习是机器学习领域中的一种最先进的技术，它可以在处理复杂数据时取得非常出色的效果。与传统机器学习方法相比，深度学习能够更好地处理自然语言、语音识别、图像识别、物体识别等复杂的任务。深度学习采用了一些特殊的算法和网络结构，例如神经网络，使得机器可以从数据中进行自我学习，并且可以通过大量的数据训练来不断优化自身的性能。</p></details>
 
 <details><summary>2023-04-04 <a href="https://academic.jyunko.cn/2023/04/04/April-Fours-Day">关于几位小丑四月四日利用漏洞恶意攻击我的账号一事</a></summary><p>涉事名单 A60、Bryan不可思议、Tarrailt、Akirami、Nyuan Zhang</p></details>
 
 <details><summary>2023-02-20 <a href="https://academic.jyunko.cn/2023/02/20/The-Pain-of-AI-2">The Pain of AI II</a></summary><p>???</p></details>
+
+<details><summary>2023-01-11 <a href="https://academic.jyunko.cn/2023/01/11/Training-an-acoustic-model-for-CMUSphinx-en">Training an acoustic model for CMUSphinx</a></summary><p>An article explaining how to train one's own acoustic model in CMUSphinx speech recognition project</p></details>
 <!-- blog ends -->
 
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
