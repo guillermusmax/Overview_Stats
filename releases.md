@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->189<!-- releases_count ends --> releases across <!-- project_count starts -->22<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->188<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - ([20 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
@@ -15,8 +15,6 @@ Listing <!-- releases_count starts -->189<!-- releases_count ends --> releases a
 <br />A simple interactive 21-point game based on OlivOS and OlivaDiceCore | 基于OlivOS与OlivaDiceCore的交互式21点小游戏
 * **[Flexirobo](https://github.com/retrofor/Flexirobo)**: [v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - ([2 releases total](https://github.com/retrofor/Flexirobo/releases))  - 2023-04-11
 <br />None
-* **[Crossplatform-pack](https://github.com/HsiangNianian/Crossplatform-pack)**: [v0.0.1✨](https://github.com/HsiangNianian/Crossplatform-pack/releases/tag/v0.0.1)  - 2023-04-10
-<br />交叉编译打包python程序
 * **[AO3Search](https://github.com/HsiangNianian/AO3Search)**: [v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - ([3 releases total](https://github.com/HsiangNianian/AO3Search/releases))  - 2023-04-06
 <br />None
 * **[Civilian-SealDice](https://github.com/HsiangNianian/Civilian-SealDice)**: [v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - ([3 releases total](https://github.com/HsiangNianian/Civilian-SealDice/releases))  - 2023-04-03
