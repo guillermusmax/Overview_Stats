@@ -114,6 +114,8 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 ### 📰Academic site
 <!-- blog starts -->
+<details><summary>2024-01-05 <a href="https://academic.jyunko.cn/2024/01/05/Build-An-Audio-Programming-Language">Build An Audio Programming Language</a></summary><p>aria</p></details>
+
 <details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
 
 <details><summary>2023-06-12 <a href="https://academic.jyunko.cn/2023/06/12/Reading-Attention-Is-All-You-Need">Reading “Attention Is All You Need”</a></summary><p>The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder.</p></details>
@@ -123,8 +125,6 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 <details><summary>2023-04-04 <a href="https://academic.jyunko.cn/2023/04/04/April-Fours-Day">关于几位小丑四月四日利用漏洞恶意攻击我的账号一事</a></summary><p>涉事名单 A60、Bryan不可思议、Tarrailt、Akirami、Nyuan Zhang</p></details>
 
 <details><summary>2023-02-20 <a href="https://academic.jyunko.cn/2023/02/20/The-Pain-of-AI-2">The Pain of AI II</a></summary><p>???</p></details>
-
-<details><summary>2023-01-11 <a href="https://academic.jyunko.cn/2023/01/11/Training-an-acoustic-model-for-CMUSphinx-en">Training an acoustic model for CMUSphinx</a></summary><p>An article explaining how to train one's own acoustic model in CMUSphinx speech recognition project</p></details>
 <!-- blog ends -->
 
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
