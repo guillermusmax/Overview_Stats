@@ -1,6 +1,6 @@
 # Released projects
 
-Listing <!-- releases_count starts -->188<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->187<!-- releases_count ends --> releases across <!-- project_count starts -->20<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - ([20 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
@@ -43,6 +43,4 @@ Listing <!-- releases_count starts -->188<!-- releases_count ends --> releases a
 <br />None
 * **[Dice](https://github.com/retrofor/Dice)**: [v1.0.0](https://github.com/retrofor/Dice/releases/tag/v1.0.0)  - 2022-11-30
 <br />QQ Dice Robot For TRPG QQ跑团掷骰机器人
-* **[ASR](https://github.com/HsiangNianian/ASR)**: [zh-CN](https://github.com/HsiangNianian/ASR/releases/tag/zh-CN)  - 2022-11-10
-<br />Speech recognizes sensitive words
 <!-- recent_releases ends -->
