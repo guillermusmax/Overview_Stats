@@ -1,10 +1,8 @@
 # Released projects
 
-Listing <!-- releases_count starts -->187<!-- releases_count ends --> releases across <!-- project_count starts -->20<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->174<!-- releases_count ends --> releases across <!-- project_count starts -->20<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - ([20 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
-<br />可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
 * **[iamai](https://github.com/retrofor/iamai)**: [v3.3.0](https://github.com/retrofor/iamai/releases/tag/v3.3.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2023-11-26
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+机器学习框架
 * **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - ([5 releases total](https://github.com/HsiangNianian/unpredictableFate/releases))  - 2023-10-19
@@ -19,6 +17,8 @@ Listing <!-- releases_count starts -->187<!-- releases_count ends --> releases a
 <br />None
 * **[Civilian-SealDice](https://github.com/HsiangNianian/Civilian-SealDice)**: [v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - ([3 releases total](https://github.com/HsiangNianian/Civilian-SealDice/releases))  - 2023-04-03
 <br />My sealdice plugins
+* **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [v3.14 🌈](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/v3.14) - ([7 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - 2023-03-09
+<br />可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
 * **[retrofor.github.io](https://github.com/retrofor/retrofor.github.io)**: [v2023.0.7](https://github.com/retrofor/retrofor.github.io/releases/tag/v2023.0.7) - ([90 releases total](https://github.com/retrofor/retrofor.github.io/releases))  - 2023-02-28
 <br />None
 * **[OlivaGithub](https://github.com/HsiangNianian/OlivaGithub)**: [v3.1415 🐱‍👤](https://github.com/HsiangNianian/OlivaGithub/releases/tag/v3.1415) - ([2 releases total](https://github.com/HsiangNianian/OlivaGithub/releases))  - 2023-02-28
