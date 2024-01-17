@@ -92,7 +92,7 @@ Sunday                   2122 commits        ████░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v3.3.1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.3.1) - 2024-01-17
+[iamai v3.3.2 🌈](https://github.com/retrofor/iamai/releases/tag/v3.3.2) - 2024-01-17
 
 [unpredictableFate v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - 2023-10-19
 
