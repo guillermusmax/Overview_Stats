@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->174<!-- releases_count ends --> releases across <!-- project_count starts -->20<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->175<!-- releases_count ends --> releases across <!-- project_count starts -->20<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[iamai](https://github.com/retrofor/iamai)**: [v3.3.0](https://github.com/retrofor/iamai/releases/tag/v3.3.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2023-11-26
+* **[iamai](https://github.com/retrofor/iamai)**: [v3.3.1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.3.1) - ([27 releases total](https://github.com/retrofor/iamai/releases))  - 2024-01-17
 <br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+机器学习框架
 * **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - ([5 releases total](https://github.com/HsiangNianian/unpredictableFate/releases))  - 2023-10-19
 <br />None
