@@ -114,7 +114,7 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 ### 📰Academic site
 <!-- blog starts -->
-<details><summary>2024-01-05 <a href="https://academic.jyunko.cn/2024/01/05/Build-An-Audio-Programming-Language">Build An Audio Programming Language - Hsiang Nianian</a></summary><p>aria</p></details>
+<details><summary>2024-01-05 <a href="https://academic.jyunko.cn/2024/01/05/Build-An-Audio-Programming-Language">Build An Audio Programming Language</a></summary><p>aria</p></details>
 
 <details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
 
