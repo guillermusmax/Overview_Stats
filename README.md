@@ -124,7 +124,7 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 <details><summary>2023-04-04 <a href="https://academic.jyunko.cn/2023/04/04/April-Fours-Day">关于几位小丑四月四日利用漏洞恶意攻击我的账号一事</a></summary><p>涉事名单 A60、Bryan不可思议、Tarrailt、Akirami、Nyuan Zhang</p></details>
 
-<details><summary>2023-02-20 <a href="https://academic.jyunko.cn/2023/02/20/The-Pain-of-AI-2">The Pain of AI II</a></summary><p>???</p></details>
+<details><summary>2023-03-03 <a href="https://academic.jyunko.cn/2023/03/03/Now-You-Have-Three-Problems">Now You Have Three Problems</a></summary><p>There’s a popular programming trope that if the solution to your problem involves parsing text with a regular expression, you now have two problems. Some programmers read this and think to try a different approach. Perhaps you don’t actually need a regex. Maybe the problem can be solved with a simple string split or something. However, others might think a bit harder and wonder “what if I did something so audacious that it resulted in three problems?” This post is in the spirit of that!</p></details>
 <!-- blog ends -->
 
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
