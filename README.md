@@ -1,15 +1,15 @@
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
   
-🐱‍🏍**Artificial Intelligence** 
+**Artificial Intelligence** 
 
 There’s going to be something more academic and something that fascinates me. 
 I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/AICMUniversity/aria)).
 
-🐱‍💻**Music Theories**
+**Music Theories**
 
 I don't really like most things in this world, but I write [some tiny songs](https://fm.jyunko.cn) ❤ snowflakes ❄️. 
   
-🐱‍👤**Currently**  
+**Currently**  
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -20,7 +20,7 @@ I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  a
 </td><td valign="top" width="33%">
 <p align="right">
 
-### 📕My Diaries :s
+### My Diaries :s
 > 在琴谱上，我们学会了理论，但是跟别人相处之后，才理解了音乐。
 <!-- diary starts -->
 <details open="true"><summary>2023-03-13</summary><li><a href="https://diary.jyunko.cn/2023/03/13/Mon">《余言后续》</a></li></details>
