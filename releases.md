@@ -1,10 +1,8 @@
 # Released projects
 
-Listing <!-- releases_count starts -->175<!-- releases_count ends --> releases across <!-- project_count starts -->20<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->148<!-- releases_count ends --> releases across <!-- project_count starts -->19<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[iamai](https://github.com/retrofor/iamai)**: [v3.3.2 🌈](https://github.com/retrofor/iamai/releases/tag/v3.3.2) - ([27 releases total](https://github.com/retrofor/iamai/releases))  - 2024-01-17
-<br />A Comprehensive AI Toolkit for Multimodal Learning and Cross-Platform Robotics（综合性人工智能工具库，强调同时支持多模态机器学习和跨平台机器人构建的能力）
 * **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - ([5 releases total](https://github.com/HsiangNianian/unpredictableFate/releases))  - 2023-10-19
 <br />None
 * **[flarum-post-formatter](https://github.com/HsiangNianian/flarum-post-formatter)**: [v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - ([5 releases total](https://github.com/HsiangNianian/flarum-post-formatter/releases))  - 2023-05-19
