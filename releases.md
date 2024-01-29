@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->153<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->155<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[testforchangelog](https://github.com/retrofor/testforchangelog)**: [v1.0.0.alpha.1](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.1)  - 2024-01-29
+* **[testforchangelog](https://github.com/retrofor/testforchangelog)**: [v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - ([3 releases total](https://github.com/retrofor/testforchangelog/releases))  - 2024-01-29
 <br />None
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.0.3a3](https://github.com/retrofor/iamai/releases/tag/v0.0.3a3) - ([4 releases total](https://github.com/retrofor/iamai/releases))  - 2024-01-28
 <br />A Comprehensive AI Toolkit for Multimodal Learning and Cross-Platform Robotics（综合性人工智能工具库，强调同时支持多模态机器学习和跨平台机器人构建的能力）
