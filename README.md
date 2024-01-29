@@ -1,13 +1,15 @@
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
   
-**Artificial Intelligence** 
+**🤖Artificial Intelligence** 
 
 There’s going to be something more academic and something that fascinates me. 
 I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/AICMUniversity/aria)).
 
-**Music Theories**
+**🎹Music Theories**
 
-I don't really like most things in this world, but I write [some tiny songs](https://fm.jyunko.cn) ❤ snowflakes ❄️. 
+I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understanding of the expressiveness and emotion of music. I also have a peculiar idea, which is to compose music in a programming language and program in a music language. I think this can create a new connection between music and programming, and also allow music and programming enthusiasts to learn and communicate with each other. 
+
+❤ snowflakes ❄️. 
   
 **Currently**  
 
