@@ -187,7 +187,7 @@ def fetch_diary_entries():
     return [
         {
             "title": entry["title"],
-            "url": entry["id"],
+            "url": entry["id"] + '.html',
             "published": entry["published"].split("T")[0]
             # "summary": entry["summary"]
         }
