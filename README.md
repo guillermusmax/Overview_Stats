@@ -94,9 +94,9 @@ Sunday                   2122 commits        ████░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
+[iamai v0.0.3b2](https://github.com/retrofor/iamai/releases/tag/v0.0.3b2) - 2024-02-14
 
-[iamai v0.0.3a3](https://github.com/retrofor/iamai/releases/tag/v0.0.3a3) - 2024-01-28
+[testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
 
 [unpredictableFate v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - 2023-10-19
 
