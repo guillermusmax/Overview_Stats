@@ -94,7 +94,7 @@ Sunday                   2122 commits        ████░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v0.0.3b2](https://github.com/retrofor/iamai/releases/tag/v0.0.3b2) - 2024-02-14
+[iamai v0.0.3b3](https://github.com/retrofor/iamai/releases/tag/v0.0.3b3) - 2024-02-22
 
 [testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
 
