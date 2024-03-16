@@ -134,17 +134,7 @@ _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 
 ### 🎹Release Album/EP
 <!-- fm starts -->
-<details open="true"><summary>2023-04-29 sequel</summary><li><a href="https://fm.jyunko.cn/sequel">sequel (余言后续)</a></li></details>
 
-<details open="true"><summary>2021-10-23 Fragments</summary><li><a href="https://fm.jyunko.cn/Fragments">Fragments (断章 - 断篇)</a></li></details>
-
-<details open="true"><summary>2021-05-22 #will u?</summary><li><a href="https://fm.jyunko.cn/So-was-your-heart">So was your heart?</a></li></details>
-
-<details open="true"><summary>2021-01-23 IANHIA fireworks(rework)</summary><li><a href="https://fm.jyunko.cn/paink">Pain,K(special day work)</a></li></details>
-
-<details open="true"><summary>2020-12-15 CAUSEKNOT (Special Collection - 2021&winter)</summary><li><a href="https://fm.jyunko.cn/winter">温存，琴弦之所以断了的理由</a></li></details>
-
-<details open="true"><summary>2020-09-25 Decades</summary><li><a href="https://fm.jyunko.cn/Decades">Decades;2020~2019</a></li></details>
 <!-- fm ends -->
   
 _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
