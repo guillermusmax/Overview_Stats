@@ -37,7 +37,7 @@ I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  a
 <!-- diary ends -->
 
 _More on [diary.jyunko.cn](https://diary.jyunko.cn)_ or 
-_you can join [us](https://github.com/Diaries-Store)_
+_you can join [us](https://github.com/Diaries-Store)_.
 </p>
 </td></tr></table>
 
