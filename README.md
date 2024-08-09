@@ -19,19 +19,20 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 
 I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  and associated projects. If you are interested abou it, just [via me a work email](mailto:leader@hydroroll.team). 
 
-</td><td valign="top" width="33%">
-<p align="right">
+<!-- </td><td valign="top" width="33%"> -->
+<!-- <p align="right"> -->
 
-### My Diaries :s
-> 在琴谱上，我们学会了理论，但是跟别人相处之后，才理解了音乐。
+<!-- ### My Diaries :s -->
+<!-- > 在琴谱上，我们学会了理论，但是跟别人相处之后，才理解了音乐。 -->
 <!-- diary starts -->
 
 <!-- diary ends -->
 
-_More on [diary.jyunko.cn](https://diary.jyunko.cn)_ or 
+<!-- _More on [diary.jyunko.cn](https://diary.jyunko.cn)_ or 
 _you can join [us](https://github.com/Diaries-Store)_.
 </p>
-</td></tr></table>
+</td> -->
+</tr></table>
 
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="10%">
   
