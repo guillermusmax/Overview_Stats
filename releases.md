@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->174<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->173<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - ([21 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - Near Future
 <br />可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
-* **[iamai](https://github.com/retrofor/iamai)**: [v0.0.3rc3](https://github.com/retrofor/iamai/releases/tag/v0.0.3rc3) - ([9 releases total](https://github.com/retrofor/iamai/releases))  - 2024-02-23
+* **[iamai](https://github.com/retrofor/iamai)**: [v0.0.3rc3](https://github.com/retrofor/iamai/releases/tag/v0.0.3rc3) - ([8 releases total](https://github.com/retrofor/iamai/releases))  - 2024-02-23
 <br />A Comprehensive AI Toolkit for Multimodal Learning and Cross-Platform Robotics（综合性人工智能工具库，强调同时支持多模态机器学习和跨平台机器人构建的能力）
 * **[testforchangelog](https://github.com/retrofor/testforchangelog)**: [v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - ([3 releases total](https://github.com/retrofor/testforchangelog/releases))  - 2024-01-29
 <br />None
