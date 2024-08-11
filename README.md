@@ -89,7 +89,7 @@ Sunday                   2122 commits        ████░░░░░░░�
 <!-- recent_releases starts -->
 [OlivaBiliLive release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - Near Future
 
-[iamai v0.0.4](https://github.com/retrofor/iamai/releases/tag/v0.0.4) - 2024-08-11
+[iamai v0.0.4 Siamese](https://github.com/retrofor/iamai/releases/tag/v0.0.4) - 2024-08-11
 
 [testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
 
