@@ -19,11 +19,11 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 
 I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  and associated projects. If you are interested abou it, just [via me a work email](mailto:leader@hydroroll.team). 
 
-<!-- </td><td valign="top" width="33%"> -->
-<!-- <p align="right"> -->
+</td><td valign="top" width="33%">
+  <p align="right">
 
-<!-- ### My Diaries :s -->
-<!-- > 在琴谱上，我们学会了理论，但是跟别人相处之后，才理解了音乐。 -->
+### My Diaries :s 
+  > 在琴谱上，我们学会了理论，但是跟别人相处之后，才理解了音乐。 
 <!-- diary starts -->
 <details open="true"><summary>2023-03-13</summary><li><a href="http://diary.jyunko.cn/2023/03/13/Mon.html">《余言后续》</a></li></details>
 
