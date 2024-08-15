@@ -36,10 +36,10 @@ I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  a
 <details open="true"><summary>2023-01-31</summary><li><a href="http://diary.jyunko.cn/2023/01/31/QY-dairy.html">《白秋日记（2023.01.31~2023.12.31）》</a></li></details>
 <!-- diary ends -->
 
-<!-- _More on [diary.jyunko.cn](https://diary.jyunko.cn)_ or 
+_More on [diary.jyunko.cn](https://diary.jyunko.cn)_ or 
 _you can join [us](https://github.com/Diaries-Store)_.
 </p>
-</td> -->
+</td>
 </tr></table>
 
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="10%">
