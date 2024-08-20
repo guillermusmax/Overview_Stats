@@ -117,7 +117,7 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 ### 📰Academic site
 <!-- blog starts -->
-<details><summary>2024-08-20 <a href="https://academic.jyunko.cn/2024/08/20/820">820[^2][^3][^4]</a></summary><p>水系820溯源原文</p></details>
+<details><summary>2024-08-20 <a href="https://academic.jyunko.cn/2024/08/20/820">820</a></summary><p>水系820溯源原文</p></details>
 
 <details><summary>2024-05-25 <a href="https://academic.jyunko.cn/2024/05/25/Can-KAN-beat-MLPs">Can Kolmogorov–Arnold Networks (KAN) beat MLPs?</a></summary><p>Lately, it seems that the entire AI community has become about one and one thing only, LLMs. They are cool in their own way, but they are not the entire AI field. In all the LLMs and AI agent hype a paper like Kolmogorov–Arnold Networks is a breath of fresh air. This paper seems quite groundbreaking and might completely change the field. Rarely do we see papers challenging the fundamentals of AI, but this one seems to do it.</p></details>
 
