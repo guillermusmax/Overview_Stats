@@ -95,8 +95,6 @@ Sunday                   2122 commits        ████░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[Dream ver4.9.1(201)](https://github.com/zmsv/Dream/releases/tag/ver4.9.1(201)) - 2024-08-23
-
 [iamai v0.0.4 Siamese](https://github.com/retrofor/iamai/releases/tag/v0.0.4) - 2024-08-11
 
 [testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
@@ -110,6 +108,8 @@ Sunday                   2122 commits        ████░░░░░░░�
 [Flexirobo v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - 2023-04-11
 
 [AO3Search v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - 2023-04-06
+
+[Civilian-SealDice v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - 2023-04-03
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
