@@ -203,7 +203,7 @@ if __name__ == "__main__":
     md = "\n\n".join(
         [
             "[{repo} {release}]({url}) - {published_day}".format(**release)
-            for release in releases[:8]
+            for release in releases[:10]
         ]
     )
     readme_contents = readme.open().read()
@@ -255,7 +255,7 @@ if __name__ == "__main__":
     #     )
     #     rewritten = replace_chunk(rewritten, "tils", tils_md)
     # blog
-    entries = fetch_blog_entries()[:8]
+    entries = fetch_blog_entries()[:7]
     entries_md = "\n\n".join(
         [
             '<details><summary>{published} <a href="{url}">{title}</a></summary><p>{summary}</p></details>'.format(
