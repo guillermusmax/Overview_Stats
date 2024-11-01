@@ -97,7 +97,7 @@ _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
 </td>
 </table>
 
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="50%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="66%">
   
 <!--START_SECTION:waka-->
 
@@ -150,7 +150,7 @@ Linux                    4 hrs 17 mins       ███████████�
 
 ✨Catch me night only, especially between the Fri. evening to the Mon. early morning. 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
   <img src="./github-metrics.svg">
   <p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
 </td>
