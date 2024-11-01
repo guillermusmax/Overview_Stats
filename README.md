@@ -149,8 +149,9 @@ Linux                    4 hrs 17 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ✨Catch me night only, especially between the Fri. evening to the Mon. early morning. 
+
 </td>
-<td valign="top" width="33%">
+<td width="33%">
   <img src="./github-metrics.svg">
   <p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
 </td>
