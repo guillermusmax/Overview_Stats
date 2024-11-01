@@ -1,4 +1,4 @@
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="50%">
   
 **🤖Artificial Intelligence** 
 
@@ -20,9 +20,28 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  and associated projects. If you are interested abou it, just [via me a work email](mailto:leader@hydroroll.team). 
 
 </td>
+</td><td valign="top" width="50%">
+<p align="right">
+
+  ***
+  
+  > 人类对科技，一比零 :s
+  
+  ***
+  
+<img width="900" align="center" src="profile-3d-contrib/profile-night-rainbow.svg">
+
+  ***
+  
+  > Human Vs. AI (1:0) :s
+  
+  ***
+  
+</p>
+</td>
 </tr></table>
 
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="10%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="100%">
 
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C072%20hrs%2043%20mins-blue)
@@ -102,27 +121,9 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
   ✨Catch me night only, especially between the Fri. evening to the Mon. early morning. 
   
-</td><td valign="top" width="33%">
-<p align="right">
+</tr></table>
 
-  ***
-  
-  > 人类对科技，一比零 :s
-  
-  ***
-  
-<img width="900" align="center" src="profile-3d-contrib/profile-night-rainbow.svg">
-
-  ***
-  
-  > Human Vs. AI (1:0) :s
-  
-  ***
-  
-</p>
-</td></tr></table>
-
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
@@ -144,7 +145,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### 📰Academic site
 <!-- blog starts -->
