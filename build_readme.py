@@ -255,7 +255,7 @@ if __name__ == "__main__":
     #     )
     #     rewritten = replace_chunk(rewritten, "tils", tils_md)
     # blog
-    entries = fetch_blog_entries()[:6]
+    entries = fetch_blog_entries()[:8]
     entries_md = "\n\n".join(
         [
             '<details><summary>{published} <a href="{url}">{title}</a></summary><p>{summary}</p></details>'.format(
