@@ -1,4 +1,4 @@
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="50%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="66%">
   
 **🤖Artificial Intelligence** 
 
@@ -20,7 +20,7 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  and associated projects. If you are interested abou it, just [via me a work email](mailto:leader@hydroroll.team). 
 
 </td>
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 <p align="right">
 
   ***
@@ -41,27 +41,70 @@ I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  a
 </td>
 </tr></table>
 
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="33%">
+  
+### 🏷Recent releases
+<!-- recent_releases starts -->
+[iamai v0.1.6 Ragdoll](https://github.com/retrofor/iamai/releases/tag/v0.1.6) - 2024-09-24
 
-  <!--START_SECTION:waka-->
+[testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
+
+[unpredictableFate v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - 2023-10-19
+
+[flarum-post-formatter v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - 2023-05-19
+
+[BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/v0.1.0) - 2023-04-21
+
+[Flexirobo v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - 2023-04-11
+
+[AO3Search v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - 2023-04-06
+
+[Civilian-SealDice v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - 2023-04-03
+<!-- recent_releases ends -->
+
+_More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
+</td><td valign="top" width="33%">
+
+### 📰Academic site
+<!-- blog starts -->
+<details><summary>2024-08-20 <a href="https://academic.jyunko.cn/2024/08/20/820">820</a></summary><p>水系820溯源原文</p></details>
+
+<details><summary>2024-05-25 <a href="https://academic.jyunko.cn/2024/05/25/Can-KAN-beat-MLPs">Can Kolmogorov–Arnold Networks (KAN) beat MLPs?</a></summary><p>Lately, it seems that the entire AI community has become about one and one thing only, LLMs. They are cool in their own way, but they are not the entire AI field. In all the LLMs and AI agent hype a paper like Kolmogorov–Arnold Networks is a breath of fresh air. This paper seems quite groundbreaking and might completely change the field. Rarely do we see papers challenging the fundamentals of AI, but this one seems to do it.</p></details>
+
+<details><summary>2024-01-19 <a href="https://academic.jyunko.cn/2024/01/19/Empowering-Python-Developers-A-Comprehensive-Exploration-of-Remote-Package-Imports">Empowering Python Developers: A Comprehensive Exploration of Remote Package Imports</a></summary><p>In the expansive world of Python programming, the advent of remote package imports has emerged as a transformative and influential feature. This dynamic capability not only streamlines code management but also unlocks innovative avenues for collaboration and modular development. This blog post aims to delve deep into the significance of remote package imports, unravel the underlying mechanisms, and provide in-depth examples to illustrate their practical applications.</p></details>
+
+<details><summary>2024-01-05 <a href="https://academic.jyunko.cn/2024/01/05/Build-An-Audio-Programming-Language">Build An Audio Programming Language</a></summary><p>aria</p></details>
+
+<details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
+
+<details><summary>2023-06-12 <a href="https://academic.jyunko.cn/2023/06/12/Reading-Attention-Is-All-You-Need">Reading “Attention Is All You Need”</a></summary><p>The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder.</p></details>
+
+<details><summary>2023-05-03 <a href="https://academic.jyunko.cn/2023/05/03/HccetEMA">How chords colors enhance the Expressiveness of Music Analyzing</a></summary><p>Music is an art form that conveys emotions through sound, melody, harmony, and other elements.In music composition, chords are an important musical element and a tool for expressing emotions and intentions. This article will explore how to better use chords to enhance the expressiveness of music from both acoustic and audience perspectives.</p></details>
+
+<details><summary>2023-03-03 <a href="https://academic.jyunko.cn/2023/03/03/Now-You-Have-Three-Problems">Now You Have Three Problems</a></summary><p>There’s a popular programming trope that if the solution to your problem involves parsing text with a regular expression, you now have two problems. Some programmers read this and think to try a different approach. Perhaps you don’t actually need a regex. Maybe the problem can be solved with a simple string split or something. However, others might think a bit harder and wonder “what if I did something so audacious that it resulted in three problems?” This post is in the spirit of that!</p></details>
+<!-- blog ends -->
+
+_More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
+</td>
+<td valign="top" width="33%">
+
+### 🎹Release Album/EP
+<!-- fm starts -->
+
+<!-- fm ends -->
+  
+_More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
+</td>
+</table>
+
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="66%">
+  
+<!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C072%20hrs%2043%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-220-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 687.6 kB Used in GitHub's Storage 
- > 
-> 🏆 7,993 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 45 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -103,91 +146,13 @@ Cursor                   1 hr                ██████░░░░░�
 Linux                    4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   35 repos            ████████████░░░░░░░░░░░░░   46.05 % 
-Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-```
-
-
-
-
- Last Updated on 01/11/2024 19:59:16 UTC
 <!--END_SECTION:waka-->
 
-  ✨Catch me night only, especially between the Fri. evening to the Mon. early morning. 
-  
-</tr></table>
-
-<table><tr><td valign="top" width="50%">
-  
-### 🏷Recent releases
-<!-- recent_releases starts -->
-[iamai v0.1.6 Ragdoll](https://github.com/retrofor/iamai/releases/tag/v0.1.6) - 2024-09-24
-
-[testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
-
-[unpredictableFate v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - 2023-10-19
-
-[flarum-post-formatter v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - 2023-05-19
-
-[BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/v0.1.0) - 2023-04-21
-
-[Flexirobo v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - 2023-04-11
-
-[AO3Search v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - 2023-04-06
-
-[Civilian-SealDice v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - 2023-04-03
-<!-- recent_releases ends -->
-
-_More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
-</td><td valign="top" width="50%">
-
-### 📰Academic site
-<!-- blog starts -->
-<details><summary>2024-08-20 <a href="https://academic.jyunko.cn/2024/08/20/820">820</a></summary><p>水系820溯源原文</p></details>
-
-<details><summary>2024-05-25 <a href="https://academic.jyunko.cn/2024/05/25/Can-KAN-beat-MLPs">Can Kolmogorov–Arnold Networks (KAN) beat MLPs?</a></summary><p>Lately, it seems that the entire AI community has become about one and one thing only, LLMs. They are cool in their own way, but they are not the entire AI field. In all the LLMs and AI agent hype a paper like Kolmogorov–Arnold Networks is a breath of fresh air. This paper seems quite groundbreaking and might completely change the field. Rarely do we see papers challenging the fundamentals of AI, but this one seems to do it.</p></details>
-
-<details><summary>2024-01-19 <a href="https://academic.jyunko.cn/2024/01/19/Empowering-Python-Developers-A-Comprehensive-Exploration-of-Remote-Package-Imports">Empowering Python Developers: A Comprehensive Exploration of Remote Package Imports</a></summary><p>In the expansive world of Python programming, the advent of remote package imports has emerged as a transformative and influential feature. This dynamic capability not only streamlines code management but also unlocks innovative avenues for collaboration and modular development. This blog post aims to delve deep into the significance of remote package imports, unravel the underlying mechanisms, and provide in-depth examples to illustrate their practical applications.</p></details>
-
-<details><summary>2024-01-05 <a href="https://academic.jyunko.cn/2024/01/05/Build-An-Audio-Programming-Language">Build An Audio Programming Language</a></summary><p>aria</p></details>
-
-<details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
-
-<details><summary>2023-06-12 <a href="https://academic.jyunko.cn/2023/06/12/Reading-Attention-Is-All-You-Need">Reading “Attention Is All You Need”</a></summary><p>The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder.</p></details>
-
-<details><summary>2023-05-03 <a href="https://academic.jyunko.cn/2023/05/03/HccetEMA">How chords colors enhance the Expressiveness of Music Analyzing</a></summary><p>Music is an art form that conveys emotions through sound, melody, harmony, and other elements.In music composition, chords are an important musical element and a tool for expressing emotions and intentions. This article will explore how to better use chords to enhance the expressiveness of music from both acoustic and audience perspectives.</p></details>
-
-<details><summary>2023-03-03 <a href="https://academic.jyunko.cn/2023/03/03/Now-You-Have-Three-Problems">Now You Have Three Problems</a></summary><p>There’s a popular programming trope that if the solution to your problem involves parsing text with a regular expression, you now have two problems. Some programmers read this and think to try a different approach. Perhaps you don’t actually need a regex. Maybe the problem can be solved with a simple string split or something. However, others might think a bit harder and wonder “what if I did something so audacious that it resulted in three problems?” This post is in the spirit of that!</p></details>
-<!-- blog ends -->
-
-_More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
+✨Catch me night only, especially between the Fri. evening to the Mon. early morning. 
 </td>
-
-<!-- <td valign="top" width="33%"> -->
-
-<!-- ### 🎹Release Album/EP -->
-<!-- fm starts -->
-
-<!-- fm ends -->
-  
-<!-- _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_ -->
-
-<!-- </td> -->
-
-</tr></table>
-
-<details "hidden">
-<summary>show/close my status</summary>
-<img src="./github-metrics.svg">
-<!--   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HsiangNianian&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"> -->
-</details>
-
-<p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
-
+<td valign="top" width="33%">
+  <img src="./github-metrics.svg">
+  <p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
+</td>
+</table>
 
