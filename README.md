@@ -85,6 +85,10 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 <details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
 
 <details><summary>2023-06-12 <a href="https://academic.jyunko.cn/2023/06/12/Reading-Attention-Is-All-You-Need">Reading “Attention Is All You Need”</a></summary><p>The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder.</p></details>
+
+<details><summary>2023-05-03 <a href="https://academic.jyunko.cn/2023/05/03/HccetEMA">How chords colors enhance the Expressiveness of Music Analyzing</a></summary><p>Music is an art form that conveys emotions through sound, melody, harmony, and other elements.In music composition, chords are an important musical element and a tool for expressing emotions and intentions. This article will explore how to better use chords to enhance the expressiveness of music from both acoustic and audience perspectives.</p></details>
+
+<details><summary>2023-03-03 <a href="https://academic.jyunko.cn/2023/03/03/Now-You-Have-Three-Problems">Now You Have Three Problems</a></summary><p>There’s a popular programming trope that if the solution to your problem involves parsing text with a regular expression, you now have two problems. Some programmers read this and think to try a different approach. Perhaps you don’t actually need a regex. Maybe the problem can be solved with a simple string split or something. However, others might think a bit harder and wonder “what if I did something so audacious that it resulted in three problems?” This post is in the spirit of that!</p></details>
 <!-- blog ends -->
 
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
