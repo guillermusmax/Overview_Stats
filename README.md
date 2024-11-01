@@ -1,4 +1,4 @@
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="66%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="50%">
   
 **🤖Artificial Intelligence** 
 
@@ -20,7 +20,7 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 I am contributing to the [HydroRoll-Team](https://github.com/HydroRoll-Team/)  and associated projects. If you are interested abou it, just [via me a work email](mailto:leader@hydroroll.team). 
 
 </td>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 <p align="right">
 
   ***
