@@ -87,7 +87,6 @@ Linux                    4 hrs 17 mins       ███████████�
 </td>
 <td width="50%">
   <img src="./github-metrics.svg">
-  <p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
 </td>
 </table>
 
@@ -146,3 +145,5 @@ _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
 </td>
 </table>
+
+<p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
