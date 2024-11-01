@@ -131,15 +131,20 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 <!-- blog ends -->
 
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
-</td><td valign="top" width="33%">
+</td>
 
-### 🎹Release Album/EP
+<!-- <td valign="top" width="33%"> -->
+
+<!-- ### 🎹Release Album/EP -->
 <!-- fm starts -->
 
 <!-- fm ends -->
   
-_More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
-</td></tr></table>
+<!-- _More on [fm.jyunko.cn](https://fm.jyunko.cn/)_ -->
+
+<!-- </td> -->
+
+</tr></table>
 
 <!--   <summary>show/close my status</summary> -->
 <!--   <img src="./github-metrics.svg"> -->
