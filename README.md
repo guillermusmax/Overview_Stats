@@ -92,7 +92,7 @@ Linux                    4 hrs 17 mins       ███████████�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v0.1.7](https://github.com/retrofor/iamai/releases/tag/v0.1.7) - 2024-11-11
+[iamai v0.1.8](https://github.com/retrofor/iamai/releases/tag/v0.1.8) - 2024-11-25
 
 [testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
 

@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->166<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->167<!-- releases_count ends --> releases across <!-- project_count starts -->21<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[iamai](https://github.com/retrofor/iamai)**: [v0.1.7](https://github.com/retrofor/iamai/releases/tag/v0.1.7) - ([15 releases total](https://github.com/retrofor/iamai/releases))  - 2024-11-11
+* **[iamai](https://github.com/retrofor/iamai)**: [v0.1.8](https://github.com/retrofor/iamai/releases/tag/v0.1.8) - ([16 releases total](https://github.com/retrofor/iamai/releases))  - 2024-11-25
 <br />A Comprehensive AI Toolkit for Multimodal Learning and Cross-Platform Robotics（综合性人工智能工具库，强调同时支持多模态机器学习和跨平台机器人构建的能力）
 * **[testforchangelog](https://github.com/retrofor/testforchangelog)**: [v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - ([3 releases total](https://github.com/retrofor/testforchangelog/releases))  - 2024-01-29
 <br />None
