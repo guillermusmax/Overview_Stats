@@ -4,7 +4,7 @@ Listing <!-- releases_count starts -->167<!-- releases_count ends --> releases a
 
 <!-- recent_releases starts -->
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.1.8](https://github.com/retrofor/iamai/releases/tag/v0.1.8) - ([16 releases total](https://github.com/retrofor/iamai/releases))  - 2024-11-25
-<br />A Comprehensive AI Toolkit for Multimodal Learning and Cross-Platform Robotics（综合性人工智能工具库，强调同时支持多模态机器学习和跨平台机器人构建的能力）
+<br />A rule-driven comprehensive AI toolkit emphasizing simultaneous support for multimodal machine learning and the ability to construct cross-platform robots using logic.（规则驱动式的综合性人工智能工具库，强调同时支持多模态机器学习和利用逻辑构建跨平台机器人的能力）
 * **[testforchangelog](https://github.com/retrofor/testforchangelog)**: [v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - ([3 releases total](https://github.com/retrofor/testforchangelog/releases))  - 2024-01-29
 <br />None
 * **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - ([5 releases total](https://github.com/HsiangNianian/unpredictableFate/releases))  - 2023-10-19
