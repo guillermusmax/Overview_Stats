@@ -92,6 +92,8 @@ Linux                    4 hrs 17 mins       ███████████�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2024-11-30
+
 [iamai v0.1.8](https://github.com/retrofor/iamai/releases/tag/v0.1.8) - 2024-11-25
 
 [testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
@@ -109,8 +111,6 @@ Linux                    4 hrs 17 mins       ███████████�
 [Civilian-SealDice v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - 2023-04-03
 
 [OlivaBiliLive v3.14 🌈](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/v3.14) - 2023-03-09
-
-[retrofor.github.io v2023.0.7](https://github.com/retrofor/retrofor.github.io/releases/tag/v2023.0.7) - 2023-02-28
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
