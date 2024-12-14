@@ -42,18 +42,6 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 692.7 kB Used in GitHub's Storage 
- > 
-> 🏆 8,549 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 44 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
