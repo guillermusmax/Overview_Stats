@@ -1340,7 +1340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>metacall/core</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MetaCall: The ultimate polyglot programming experience.</div>
@@ -1393,7 +1393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pallets/jinja</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A very fast and expressive template engine.</div>
@@ -1446,7 +1446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-num/num</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of numeric types and traits for Rust.</div>
@@ -1499,7 +1499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openchatai/copilot</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 🔥 Language-to-actions engine</div>
@@ -1852,7 +1852,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Dec 2024, 10:07:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2024, 11:55:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
