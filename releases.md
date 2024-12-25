@@ -4,7 +4,7 @@ Listing <!-- releases_count starts -->187<!-- releases_count ends --> releases a
 
 <!-- recent_releases starts -->
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2024-12-24
-<br />Unofficial swi-prolog docs with Chinese edition
+<br />Unofficial swi-prolog docs for Chinese
 * **[online-judge](https://github.com/swpu-acm/online-judge)**: [algohub-server v0.1.17](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.17) - ([19 releases total](https://github.com/swpu-acm/online-judge/releases))  - 2024-12-17
 <br />Extremely fast async online judge backend based on Rust
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.1.8](https://github.com/retrofor/iamai/releases/tag/v0.1.8) - ([16 releases total](https://github.com/retrofor/iamai/releases))  - 2024-11-25
