@@ -1352,7 +1352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/datasets</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools</div>
@@ -1405,7 +1405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/diffusers</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.</div>
@@ -1458,7 +1458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/candle</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimalist ML framework for Rust</div>
@@ -1511,7 +1511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THUDM/CodeGeeX4</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&amp;A and much more.</div>
@@ -1915,7 +1915,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2024, 19:33:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2024, 20:58:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
