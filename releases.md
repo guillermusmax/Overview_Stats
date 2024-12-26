@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->187<!-- releases_count ends --> releases across <!-- project_count starts -->23<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2024-12-25
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2024-12-26
 <br />Unofficial swi-prolog docs for Chinese
 * **[online-judge](https://github.com/swpu-acm/online-judge)**: [algohub-server v0.1.17](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.17) - ([19 releases total](https://github.com/swpu-acm/online-judge/releases))  - 2024-12-17
 <br />Extremely fast async online judge backend based on Rust
