@@ -40,7 +40,7 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="50%">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C130%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C131%20hrs%208%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -82,7 +82,7 @@ Linux                    1 hr 28 mins        ███████████�
 ```
 
 
- Last Updated on 04/01/2025 12:50:26 UTC
+ Last Updated on 04/01/2025 13:32:19 UTC
 <!--END_SECTION:waka-->
 
 </td>
