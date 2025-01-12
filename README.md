@@ -95,11 +95,11 @@ Linux                    2 hrs 17 mins       ███████████�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
+[iamai nightly](https://github.com/retrofor/iamai/releases/tag/nightly) - 2025-01-12
+
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-01-10
 
 [online-judge algohub-server v0.1.17](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.17) - 2024-12-17
-
-[iamai v0.1.8](https://github.com/retrofor/iamai/releases/tag/v0.1.8) - 2024-11-25
 
 [testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
 
