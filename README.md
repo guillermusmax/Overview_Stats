@@ -96,7 +96,7 @@ Linux                    4 hrs 21 mins       ███████████�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai nightly](https://github.com/retrofor/iamai/releases/tag/nightly) - 2025-01-12
+[iamai nightly](https://github.com/retrofor/iamai/releases/tag/nightly) - 2025-01-13
 
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-01-10
 
