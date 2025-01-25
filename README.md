@@ -1,4 +1,4 @@
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="80%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="70%">
   
 **🤖Artificial Intelligence** 
 
@@ -193,7 +193,7 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="10%">
   <img src="./github-metrics.svg">
 </td>
 </table>
