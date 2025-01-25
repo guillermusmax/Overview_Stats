@@ -1,4 +1,4 @@
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="50%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="80%">
   
 **🤖Artificial Intelligence** 
 
@@ -12,7 +12,7 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 GPG Keys: <i@jyunko.cn>([5DE2131FAD104AEBA3D36BDF519BB8194D892FD0](https://keys.openpgp.org/search?q=5DE2131FAD104AEBA3D36BDF519BB8194D892FD0))
 
 </td>
-</td><td valign="top" width="70%">
+</td><td valign="top" width="50%">
 <p align="right">
 
   ***
@@ -33,7 +33,7 @@ GPG Keys: <i@jyunko.cn>([5DE2131FAD104AEBA3D36BDF519BB8194D892FD0](https://keys.
 </td>
 </tr></table>
 
-<table style="border-color: transparent;" cellspacing=0 ><td valign="top" width="100%">
+<table style="border-color: transparent;" cellspacing=0 ><td valign="top" width="200%">
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2048%20mins-blue)
@@ -82,7 +82,7 @@ Linux                    51 mins             ███████████�
 <!--END_SECTION:waka-->
 
 </td>
-<td valign="top" width="30%">
+<td valign="top" width="100%">
   
 **⏱️Currently**
 
