@@ -116,7 +116,9 @@ Linux                    51 mins             ███████████�
 <table style="border-color: transparent;" cellspacing=0 >
   <tr>
     <td valign="center" width="50%">
-      <i>HydroRoll-Team</i><a href="https://anthology.hydroroll.team">[anthology]</a>
+      <i>HydroRoll-Team</i>
+      <br />
+      <a href="https://anthology.hydroroll.team">[anthology]</a> <a href="https://docs.hydroroll.team">[docs]</a>
       <br />
       <a href="https://githun.com/HydroRoll-Team"><img align="center" width="60" src="https://files.hydroroll.team/hotlink-ok/files/image/logo.png"></a>
     </td>
@@ -125,6 +127,8 @@ Linux                    51 mins             ███████████�
     <td valign="center" width="50%">
       <i>AICMUniversity</i>
       <br />
+      <a href="https://anthology.aicmu.ac.cn">[anthology]</a>
+      <br />
       <a href="https://github.com/AICMUniversity"><img align="center" width="60" src="https://mirror.ghproxy.com/github.com/AICMUniversity/.github/blob/main/profile/logo.svg"></a>
     </td>
   </tr>
@@ -132,12 +136,16 @@ Linux                    51 mins             ███████████�
     <td valign="center" width="50%">
       <i>AsynthIn</i>
       <br />
+      <a href="https://anthology.asynth.in">[anthology]</a>
+      <br />
       <a href="https://github.com/AsynthIn"><img align="center" width="60" src="https://files.hydroroll.team/hotlink-ok/files/image/asynthin_logo.png"></a>
     </td>
   </tr>
   <tr>
     <td valign="center" width="50%">
       <i>Retrofor wut?</i>
+      <br />
+      <a href="https://iamai.is-a.dev">[docs]</a>
       <br />
       <a href="https://github.com/retrofor"><img align="center" width="60" src="https://cdn.jsdelivr.net/gh/retrofor/iamai@master/docs/_static/retro.png"></a>
     </td>
