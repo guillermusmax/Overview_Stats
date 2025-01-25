@@ -33,7 +33,7 @@ GPG Keys: <i@jyunko.cn>([5DE2131FAD104AEBA3D36BDF519BB8194D892FD0](https://keys.
 </td>
 </tr></table>
 
-<table style="border-color: transparent;" cellspacing=0 ><td valign="top" width="33%">
+<table style="border-color: transparent;" cellspacing=0 ><td valign="top" width="60%">
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2048%20mins-blue)
