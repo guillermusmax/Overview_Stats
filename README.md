@@ -39,7 +39,7 @@ GPG Keys: <i@jyunko.cn>([5DE2131FAD104AEBA3D36BDF519BB8194D892FD0](https://keys.
 </td>
 </tr></table>
 
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="50%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center">
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2048%20mins-blue)
@@ -87,9 +87,6 @@ Linux                    51 mins             ███████████�
  Last Updated on 25/01/2025 04:38:33 UTC
 <!--END_SECTION:waka-->
 
-</td>
-<td width="50%">
-  <img src="./github-metrics.svg">
 </td>
 </table>
 
@@ -141,13 +138,7 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
 </td>
 <td valign="top" width="33%">
-
-### 🎹Release Album/EP
-<!-- fm starts -->
-
-<!-- fm ends -->
-  
-_More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
+  <img src="./github-metrics.svg">
 </td>
 </table>
 
