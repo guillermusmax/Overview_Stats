@@ -12,7 +12,7 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 GPG Keys: <i@jyunko.cn>([5DE2131FAD104AEBA3D36BDF519BB8194D892FD0](https://keys.openpgp.org/search?q=5DE2131FAD104AEBA3D36BDF519BB8194D892FD0))
 
 </td>
-</td><td valign="top" width="50%">
+</td><td valign="top" width="70%">
 <p align="right">
 
   ***
