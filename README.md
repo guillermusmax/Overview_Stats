@@ -82,7 +82,7 @@ Linux                    51 mins             ███████████�
 <!--END_SECTION:waka-->
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
   
 **⏱️Currently**
 
