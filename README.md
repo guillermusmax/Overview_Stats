@@ -116,7 +116,7 @@ Linux                    51 mins             ███████████�
 <table style="border-color: transparent;" cellspacing=0 >
   <tr>
     <td valign="center" width="50%">
-      <i>HydroRoll-Team</i>
+      <i>HydroRoll-Team</i><a href="https://anthology.hydroroll.team">[anthology]</a>
       <br />
       <a href="https://githun.com/HydroRoll-Team"><img align="center" width="60" src="https://files.hydroroll.team/hotlink-ok/files/image/logo.png"></a>
     </td>
